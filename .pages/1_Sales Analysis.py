@@ -83,7 +83,7 @@ if st.sidebar.button("Reset Filters"):
     st.rerun()
 
 #-Calculations and Visualizations----------------------------------------
-st.title("Sales Analysis Dashboard")
+st.title("💸Sales Analysis Dashboard")
 
 total_profit = filtered_df['Profit'].sum()
 total_sales = filtered_df['Sales'].sum()
