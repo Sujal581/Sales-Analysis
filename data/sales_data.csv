@@ -1,0 +1,998 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,State,Product,Units,Unit_Price,Discount,Sales,Cost,Profit,Sales_Channel,Payment_Mode,Sales_Rep,Return_Status
+1001,19-03-2025,C201,Rahul Shah,West,Odisha,USB Hub,0,250,0,999999,0,209,Offline,UPI,Neha,Damaged
+1002,17-10-2025,C157,Priya  Mehta,Unkown,Maharashtra,USB Hub,2,250,0.05,475,266,209,Online,Unkown,Neha,No
+1003,14-10-2025,C126,Rahul Shah,West,Karnataka,Tablet,2,12500,0,25000,23333,1667,Unkown,Unkown,Ravi,Damaged
+1004,21-08-2025,C192,Priya Mehta,West,Karnataka,Monitor,0,12500,0.15,0,0,1667,Online,CARD,Amit,No
+1005,26-03-2025,Unkown ID,Unkown ,West,Delhi,Notebook Pack,0,1200,0,0,0,1667,Off Line,UPI,Amit,Unkown Status
+1006,07-12-2025,C115,Priya  Mehta,South,Unkown State,Router,2,1200,0.1,0,0,1667,Online,CARD,Neha,No
+1007,22-04-2025,C133,Priya Mehta,East,Maharastra,Desk,0,5400,0.15,5000,0,1667,Offline,Unkown,Neha,Unkown Status
+1008,03-07-2025,C197,Rahul Shah,North,Tamil Nadu,Mouse,0,250,0.15,5000,0,1667,Online,UPI,Neha,Damaged
+1009,09-11-2025,C244,Priya  Mehta,Unkown,Maharashtra,Desk,2,5400,0.15,9180,8380,800,Off Line,UPI,Neha,No
+1010,14-08-2025,Unkown ID,Rahul Shah,West,Delhi,Laptop,0,12500,0,999999,0,800,Online,CARD,Neha,Damaged
+1011,10-05-2025,Unkown ID,Unkown ,West,Delhi,Desk,2,5400,0.1,9720,6049,3671,Online,CASH,Amit ,Yes
+1012,16-04-2025,C235,Priya  Mehta,Unkown,Maharashtra,Notebook Pack,5,5400,0,999999,0,3671,Offline,CASH,Neha,Unkown Status
+1013,10-11-2025,Unkown ID,Priya  Mehta,North,Karnataka,Notebook Pack,0,5400,0,0,0,3671,Off Line,CASH,Neha,Unkown Status
+1014,28-06-2025,C193,Rahul Shah,North,Unkown State,Mouse,0,5400,0.5,5000,0,3671,Off Line,CASH,Unkown,No
+1015,03-03-2025,Unkown ID,Priya Mehta,East,Odisha,Monitor,2,5400,0.15,9180,11020,1840,Offline,CARD,Neha,No
+1016,27-08-2025,C256,Unkown ,West,Odisha,Keyboard,0,250,0,5000,0,1840,Unkown,CARD,Amit ,Yes
+1017,19-04-2025,C107,Arjun Nair,Unkown,Karnataka,USB Hub,0,12500,0.15,0,0,1840,Online,Unkown,Unkown,Damaged
+1018,14-09-2025,C133,Rahul Shah,Unkown,Maharashtra,Desk,0,12500,0,0,0,1840,Off Line,CARD,Unkown,No
+1019,16-06-2025,C235,Unkown ,West,Maharashtra,Mouse,0,250,0,0,0,1840,Online,UPI,Amit ,Unkown Status
+1020,16-09-2025,C255,Priya  Mehta,South,Unkown State,Notebook Pack,2,12500,0.05,23750,24736,986,Online,CARD,Neha,Damaged
+1021,04-03-2025,Unkown ID,Rahul Shah,West,Karnataka,Office Chair,0,12500,0.1,0,0,986,Offline,CASH,Neha,Unkown Status
+1022,28-08-2025,Unkown ID,Unkown ,North,Karnataka,Keyboard,2,12500,0.15,21250,18435,2815,Online,UPI,Unkown,Unkown Status
+1023,28-08-2025,Unkown ID,Priya  Mehta,West,Maharastra,Tablet,0,12500,0,0,0,2815,Offline,UPI,Amit,Unkown Status
+1024,03-04-2025,Unkown ID,Priya  Mehta,South,Maharastra,Keyboard,2,12500,0.1,0,0,2815,Offline,Unkown,Amit,Unkown Status
+1025,21-11-2025,C122,Rahul Shah,North,Delhi,Router,14,5400,0,75600,55748,19852,Online,CARD,Neha,No
+1026,03-05-2025,Unkown ID,Rahul Shah,North,Karnataka,Router,0,12500,0,0,0,19852,Offline,CASH,Ravi,No
+1027,19-01-2025,C104,Rahul Shah,Unkown,Karnataka,Notebook Pack,0,5400,0,5000,0,19852,Off Line,Unkown,Neha,Damaged
+1028,07-06-2025,Unkown ID,Priya Mehta,West,Tamil Nadu,Office Chair,6,650,0,3900,2143,1757,Online,Unkown,Neha,No
+1029,15-07-2025,C172,Priya Mehta,West,West Bengal,Laptop,0,650,0.1,9999999,0,1757,Online,CASH,Neha,Unkown Status
+1030,08-06-2025,C155,Rahul Shah,South,Maharastra,Monitor,0,12500,0,0,0,1757,Online,UPI,Ravi,No
+1031,28-10-2025,C110,Arjun Nair,South,Karnataka,Monitor,0,12500,0,5000,0,1757,Online,Unkown,Neha,Unkown Status
+1032,26-11-2025,C111,Rahul Shah,West,Maharastra,Notebook Pack,3,12500,0.5,5000,0,1757,Offline,UPI,Amit,No
+1033,04-07-2025,Unkown ID,Rahul Shah,West,Maharashtra,Notebook Pack,0,5400,0.1,0,0,1757,Online,CARD,Neha,No
+1034,03-02-2025,C221,Arjun Nair,North,Karnataka,Mouse,2,5400,0,10800,8292,2508,Online,UPI,Neha,Yes
+1035,17-03-2025,C165,Priya  Mehta,West,West Bengal,USB Hub,0,250,0.15,0,0,2508,Online,CARD,Unkown,Damaged
+1036,22-09-2025,Unkown ID,Unkown ,West,Karnataka,Router,2,250,0.1,450,411,39,Off Line,CASH,Amit ,Yes
+1037,18-04-2025,C119,Priya Mehta,West,West Bengal,Tablet,0,250,0,0,0,39,Off Line,Unkown,Amit,Yes
+1038,18-04-2025,Unkown ID,Arjun Nair,West,Tamil Nadu,Office Chair,2,1200,0,9999999,2612,212,Online,Unkown,Amit,Yes
+1039,29-05-2025,C164,Unkown ,East,Delhi,Tablet,2,1200,0,2400,1281,1119,Online,CARD,Neha,Unkown Status
+1040,11-06-2025,Unkown ID,Rahul Shah,West,Maharastra,Notebook Pack,0,1200,0,0,0,1119,Off Line,Unkown,Neha,Yes
+1041,27-05-2025,C112,Priya Mehta,North,Unkown State,Office Chair,0,1200,0.1,0,0,1119,Online,Unkown,Unkown,Yes
+1042,13-10-2025,C200,Priya  Mehta,North,Delhi,Mouse,2,12500,0.05,23750,20427,3323,Off Line,Unkown,Neha,Yes
+1043,31-03-2025,C187,Arjun Nair,North,Odisha,Router,0,250,0,999999,0,3323,Unkown,CARD,Amit ,Unkown Status
+1044,01-02-2025,C171,Arjun Nair,North,Karnataka,Monitor,0,5400,0.15,5000,0,3323,Online,UPI,Neha,No
+1045,31-08-2025,C250,Rahul Shah,East,Unkown State,Desk,4,650,0.05,2470,1577,893,Online,Unkown,Amit,No
+1046,31-08-2025,C159,Rahul Shah,West,West Bengal,Keyboard,0,12500,0,0,0,893,Online,UPI,Ravi,Yes
+1047,25-04-2025,C253,Rahul Shah,South,Unkown State,Router,0,5400,0.5,0,0,893,Online,Unkown,Unkown,Unkown Status
+1048,10-04-2025,C227,Arjun Nair,North,Maharastra,Tablet,2,250,0,500,368,132,Off Line,CARD,Amit,Unkown Status
+1049,16-09-2025,Unkown ID,Priya Mehta,South,Karnataka,Mouse,0,1200,0,999999,0,132,Unkown,Unkown,Neha,Yes
+1050,06-09-2025,C114,Priya Mehta,East,Maharashtra,Mouse,0,5400,0,5000,0,132,Off Line,Unkown,Unkown,Unkown Status
+1051,10-02-2025,C142,Priya Mehta,West,Unkown State,Laptop,2,1200,0.1,2160,1943,217,Online,CASH,Amit,Unkown Status
+1052,05-03-2025,Unkown ID,Arjun Nair,South,Maharastra,Monitor,2,650,0.1,1170,1143,27,Online,CASH,Unkown,Damaged
+1053,30-07-2025,Unkown ID,Rahul Shah,East,Maharashtra,Desk,2,1200,0.05,2280,2455,175,Online,CASH,Ravi,Unkown Status
+1054,12-11-2025,C167,Priya  Mehta,West,Odisha,Router,5,1200,0,5000,0,175,Online,UPI,Neha,No
+1055,27-08-2025,Unkown ID,Unkown ,North,Unkown State,Keyboard,0,1200,0,0,0,175,Online,CASH,Amit ,Unkown Status
+1056,02-11-2025,C120,Unkown ,North,Karnataka,Office Chair,2,5400,0.5,5400,9517,4117,Off Line,UPI,Amit,Unkown Status
+1057,17-04-2025,Unkown ID,Priya  Mehta,East,Tamil Nadu,Mouse,2,5400,0.5,5400,12138,6738,Unkown,UPI,Ravi,Unkown Status
+1058,18-05-2025,C165,Arjun Nair,North,Unkown State,Mouse,0,650,0.05,999999,0,6738,Unkown,CARD,Ravi,No
+1059,06-05-2025,C229,Priya  Mehta,West,Unkown State,Laptop,2,5400,0,10800,7147,3653,Online,UPI,Ravi,Yes
+1060,08-04-2025,C253,Rahul Shah,South,Tamil Nadu,Desk,0,5400,0,0,0,3653,Unkown,CASH,Neha,No
+1061,14-03-2025,Unkown ID,Rahul Shah,Unkown,Karnataka,Laptop,0,5400,0,0,0,3653,Online,CARD,Amit,Damaged
+1062,02-02-2025,Unkown ID,Priya  Mehta,Unkown,Tamil Nadu,Notebook Pack,0,5400,0,999999,0,3653,Online,CASH,Amit ,No
+1063,18-10-2025,Unkown ID,Rahul Shah,South,Karnataka,Office Chair,2,650,0,1300,1045,255,Online,UPI,Amit ,Unkown Status
+1064,25-03-2025,C133,Rahul Shah,North,Maharastra,Monitor,0,650,0.5,0,0,255,Online,CARD,Neha,Yes
+1065,25-02-2025,C198,Arjun Nair,North,Maharashtra,Desk,6,12500,0,75000,57864,17136,Unkown,CARD,Unkown,Yes
+1066,11-11-2025,C150,Rahul Shah,North,Maharashtra,Office Chair,0,5400,0.1,0,0,17136,Offline,UPI,Neha,No
+1067,15-06-2025,C199,Unkown ,Unkown,West Bengal,Office Chair,0,5400,0.15,5000,0,17136,Unkown,Unkown,Neha,No
+1068,15-06-2025,C225,Unkown ,Unkown,Unkown State,Keyboard,2,5400,0,10800,5907,4893,Online,UPI,Amit ,No
+1069,08-03-2025,C180,Rahul Shah,West,Maharashtra,Notebook Pack,2,5400,0,0,0,4893,Online,CARD,Unkown,No
+1070,09-09-2025,C142,Priya  Mehta,North,Delhi,Tablet,0,650,0.1,0,0,4893,Off Line,CARD,Ravi,Damaged
+1071,15-05-2025,C257,Arjun Nair,South,Maharashtra,Mouse,2,650,0,1300,1502,202,Off Line,CARD,Ravi,No
+1072,25-01-2025,C215,Rahul Shah,Unkown,Delhi,Router,2,650,0,999999,0,202,Online,CARD,Neha,Unkown Status
+1073,11-02-2025,C213,Rahul Shah,West,Maharashtra,Router,0,1200,0,0,0,202,Online,UPI,Unkown,No
+1074,29-05-2025,Unkown ID,Unkown ,Unkown,Odisha,Laptop,2,650,0.5,650,1244,594,Online,CARD,Ravi,Unkown Status
+1075,02-07-2025,Unkown ID,Rahul Shah,South,Tamil Nadu,Mouse,2,650,0.05,1235,663,572,Offline,Unkown,Amit,No
+1076,07-12-2025,Unkown ID,Rahul Shah,West,Odisha,USB Hub,2,12500,0.5,12500,25337,12837,Online,UPI,Amit,No
+1077,02-05-2025,C140,Rahul Shah,Unkown,Karnataka,Keyboard,0,12500,0.5,5000,0,12837,Off Line,CARD,Neha,Unkown Status
+1078,17-11-2025,C222,Rahul Shah,West,Maharastra,Office Chair,2,250,0,500,479,21,Online,CASH,Neha,No
+1079,22-12-2025,Unkown ID,Priya  Mehta,Unkown,Maharastra,Notebook Pack,0,250,0.05,0,0,21,Online,CARD,Ravi,Yes
+1080,14-04-2025,C140,Unkown ,South,Karnataka,Office Chair,2,5400,0,9999999,9411,1389,Online,Unkown,Unkown,Yes
+1081,07-06-2025,C200,Rahul Shah,West,Tamil Nadu,Keyboard,1,250,0,250,234,16,Offline,UPI,Amit,No
+1082,26-11-2025,C117,Rahul Shah,West,Odisha,Mouse,14,250,0.15,0,0,16,Offline,UPI,Amit,No
+1083,21-11-2025,Unkown ID,Rahul Shah,North,Delhi,Mouse,0,1200,0.15,0,0,16,Online,UPI,Unkown,Unkown Status
+1084,05-11-2025,Unkown ID,Rahul Shah,West,Maharashtra,Office Chair,2,12500,0,25000,14220,10780,Online,CARD,Neha,Yes
+1085,16-02-2025,C247,Unkown ,West,Karnataka,Router,13,250,0.1,2925,2742,183,Offline,Unkown,Neha,Unkown Status
+1086,21-09-2025,C166,Arjun Nair,North,Karnataka,Desk,3,250,0,0,0,183,Unkown,UPI,Unkown,Unkown Status
+1087,25-07-2025,Unkown ID,Priya  Mehta,West,Odisha,Mouse,0,5400,0.5,0,0,183,Offline,Unkown,Neha,No
+1088,17-06-2025,Unkown ID,Priya  Mehta,Unkown,Odisha,Keyboard,2,5400,0,999999,0,183,Offline,CASH,Amit ,Yes
+1089,17-05-2025,C177,Priya  Mehta,North,Karnataka,Tablet,0,650,0.05,0,0,183,Online,CARD,Unkown,No
+1090,19-03-2025,C177,Arjun Nair,East,West Bengal,Mouse,2,1200,0.05,2280,2687,407,Online,Unkown,Amit ,Yes
+1091,20-11-2025,C175,Priya Mehta,South,Maharastra,Laptop,0,5400,0,5000,0,407,Off Line,CARD,Unkown,Yes
+1092,25-11-2025,Unkown ID,Arjun Nair,South,Delhi,Office Chair,2,5400,0,5000,0,407,Off Line,Unkown,Amit ,No
+1093,29-07-2025,C146,Arjun Nair,West,Maharastra,Desk,15,250,0.1,3375,3301,74,Offline,CARD,Ravi,No
+1094,22-08-2025,C152,Unkown ,Unkown,Maharashtra,Tablet,0,5400,0,0,0,74,Offline,Unkown,Neha,No
+1095,11-11-2025,Unkown ID,Arjun Nair,East,Maharastra,Laptop,1,5400,0.15,4590,5076,486,Unkown,CASH,Amit,Yes
+1096,25-07-2025,Unkown ID,Unkown ,North,Tamil Nadu,Keyboard,15,5400,0.05,999999,0,486,Offline,CARD,Ravi,Damaged
+1097,31-05-2025,Unkown ID,Arjun Nair,North,West Bengal,Office Chair,0,5400,0,9999999,0,486,Online,CASH,Neha,Unkown Status
+1098,06-09-2025,C259,Rahul Shah,West,Odisha,Keyboard,0,5400,0,0,0,486,Online,CARD,Neha,Unkown Status
+1099,08-01-2025,C102,Priya  Mehta,South,West Bengal,USB Hub,0,650,0.05,999999,0,486,Offline,CARD,Amit ,Yes
+1100,19-12-2025,C123,Rahul Shah,West,West Bengal,Mouse,0,12500,0,5000,0,486,Online,CARD,Amit,Unkown Status
+1101,13-03-2025,C226,Rahul Shah,East,Unkown State,Keyboard,2,650,0.15,1105,800,305,Online,CARD,Ravi,Damaged
+1102,12-09-2025,Unkown ID,Unkown ,East,Delhi,Keyboard,0,650,0,0,0,305,Online,CASH,Amit,Damaged
+1103,15-03-2025,C154,Unkown ,West,Tamil Nadu,Tablet,0,1200,0.15,0,0,305,Offline,CASH,Amit ,Unkown Status
+1104,11-10-2025,Unkown ID,Arjun Nair,East,Maharastra,Tablet,0,12500,0.1,0,0,305,Online,CASH,Neha,Unkown Status
+1105,07-03-2025,C250,Unkown ,West,Maharastra,Notebook Pack,10,5400,0.1,48600,31101,17499,Off Line,CARD,Unkown,No
+1106,06-10-2025,C196,Priya Mehta,West,Delhi,Mouse,2,5400,0,0,0,17499,Offline,UPI,Amit ,No
+1107,02-12-2025,C103,Arjun Nair,Unkown,West Bengal,Router,2,250,0.1,450,257,193,Unkown,UPI,Amit ,No
+1108,04-08-2025,Unkown ID,Rahul Shah,West,Maharastra,USB Hub,0,5400,0,999999,0,193,Online,Unkown,Neha,Yes
+1109,07-08-2025,C102,Priya  Mehta,West,Delhi,Mouse,14,650,0.15,7735,4663,3072,Offline,Unkown,Unkown,Yes
+1110,07-07-2025,Unkown ID,Priya  Mehta,Unkown,Unkown State,Desk,0,250,0,0,0,3072,Unkown,UPI,Amit ,Unkown Status
+1111,04-11-2025,C224,Rahul Shah,South,Odisha,USB Hub,2,5400,0,10800,6659,4141,Online,CASH,Unkown,Yes
+1112,02-08-2025,Unkown ID,Arjun Nair,Unkown,Odisha,Router,5,12500,0,62500,62018,482,Online,CARD,Unkown,No
+1113,04-11-2025,Unkown ID,Priya Mehta,East,Maharastra,Office Chair,0,5400,0.1,9999999,0,482,Online,CASH,Amit ,Yes
+1114,22-01-2025,C136,Priya Mehta,South,Unkown State,Tablet,9,12500,0.5,56250,94425,38175,Offline,CASH,Neha,No
+1115,27-08-2025,C165,Rahul Shah,East,Unkown State,Notebook Pack,0,250,0.05,0,0,38175,Online,CARD,Ravi,Damaged
+1116,14-04-2025,C148,Rahul Shah,North,West Bengal,Tablet,0,5400,0,0,0,38175,Online,Unkown,Ravi,No
+1117,26-08-2025,Unkown ID,Rahul Shah,West,Odisha,Router,9,250,0,2250,1447,803,Unkown,Unkown,Neha,Yes
+1118,24-05-2025,Unkown ID,Rahul Shah,Unkown,Tamil Nadu,Router,14,1200,0.05,15960,20097,4137,Online,UPI,Amit,Unkown Status
+1119,23-08-2025,C116,Priya  Mehta,East,Delhi,Monitor,0,12500,0.05,0,0,4137,Unkown,Unkown,Neha,Damaged
+1120,09-07-2025,C160,Rahul Shah,South,Odisha,Laptop,15,250,0.1,3375,3939,564,Off Line,UPI,Amit,Yes
+1124,30-07-2025,C163,Arjun Nair,Unkown,West Bengal,Tablet,0,1200,0.15,0,0,564,Off Line,UPI,Neha,No
+1125,09-12-2025,Unkown ID,Arjun Nair,West,West Bengal,Mouse,2,1200,0.05,2280,2754,474,Online,Unkown,Neha,No
+1126,31-05-2025,Unkown ID,Rahul Shah,South,Tamil Nadu,Desk,0,650,0.1,0,0,474,Offline,CASH,Neha,Yes
+1127,03-04-2025,C158,Priya Mehta,North,Delhi,Monitor,2,1200,0.05,2280,1546,734,Offline,CARD,Ravi,Yes
+1128,03-04-2025,C204,Rahul Shah,Unkown,Odisha,Tablet,2,250,0,500,393,107,Offline,CASH,Neha,Yes
+1129,07-07-2025,C141,Arjun Nair,Unkown,Maharashtra,Tablet,2,12500,0,25000,14614,10386,Online,Unkown,Neha,No
+1130,25-02-2025,C214,Rahul Shah,Unkown,Tamil Nadu,Laptop,4,650,0.5,1300,1632,332,Online,CARD,Amit,No
+1131,24-12-2025,C149,Rahul Shah,West,Unkown State,Notebook Pack,2,250,0.1,450,554,104,Online,CASH,Amit,Damaged
+1132,14-09-2025,C171,Rahul Shah,East,Tamil Nadu,Notebook Pack,0,650,0.05,5000,0,104,Off Line,CARD,Amit,Damaged
+1133,02-11-2025,C254,Unkown ,West,Odisha,Tablet,0,1200,0,999999,0,104,Unkown,CASH,Amit ,No
+1134,17-03-2025,Unkown ID,Priya  Mehta,West,Maharashtra,Tablet,0,250,0.1,999999,0,104,Online,CARD,Neha,Damaged
+1135,21-08-2025,C111,Priya  Mehta,Unkown,West Bengal,USB Hub,5,12500,0,62500,42213,20287,Off Line,CARD,Amit,Unkown Status
+1136,27-06-2025,C142,Rahul Shah,Unkown,West Bengal,Monitor,0,5400,0,5000,0,20287,Online,Unkown,Neha,Unkown Status
+1137,14-02-2025,Unkown ID,Rahul Shah,West,Karnataka,Office Chair,0,5400,0.5,0,0,20287,Online,UPI,Neha,Unkown Status
+1138,20-09-2025,C198,Unkown ,West,Odisha,Keyboard,0,1200,0.5,999999,0,20287,Online,CARD,Ravi,No
+1139,23-03-2025,C117,Arjun Nair,East,Maharashtra,Notebook Pack,2,1200,0,2400,2482,82,Offline,Unkown,Ravi,Unkown Status
+1140,14-04-2025,Unkown ID,Rahul Shah,West,Unkown State,Router,0,5400,0,9999999,0,82,Unkown,CARD,Amit,Damaged
+1141,20-10-2025,Unkown ID,Rahul Shah,Unkown,Delhi,Office Chair,2,5400,0.15,999999,0,82,Online,CASH,Amit ,Damaged
+1142,04-01-2025,Unkown ID,Arjun Nair,North,West Bengal,Keyboard,2,12500,0.05,23750,14039,9711,Online,CARD,Neha,Unkown Status
+1143,07-08-2025,C102,Arjun Nair,Unkown,Unkown State,Router,0,12500,0.5,0,0,9711,Unkown,Unkown,Amit ,Damaged
+1144,01-11-2025,C189,Priya  Mehta,West,Karnataka,Monitor,0,12500,0.15,0,0,9711,Offline,CARD,Amit ,Damaged
+1145,16-11-2025,C187,Rahul Shah,West,Delhi,Keyboard,0,1200,0,0,0,9711,Online,CASH,Unkown,Unkown Status
+1146,18-09-2025,C140,Arjun Nair,Unkown,Karnataka,Notebook Pack,0,5400,0.05,0,0,9711,Unkown,UPI,Ravi,No
+1147,06-01-2025,C178,Priya  Mehta,Unkown,Maharashtra,Router,7,12500,0,87500,84672,2828,Off Line,CARD,Neha,Unkown Status
+1148,30-09-2025,C136,Priya Mehta,East,Delhi,Keyboard,3,250,0,750,415,335,Off Line,Unkown,Neha,Damaged
+1149,01-02-2025,Unkown ID,Priya Mehta,West,Karnataka,Tablet,0,250,0.1,5000,0,335,Unkown,UPI,Ravi,Yes
+1150,17-07-2025,C105,Unkown ,Unkown,Maharashtra,Desk,0,650,0.05,0,0,335,Unkown,CARD,Ravi,No
+1151,22-08-2025,C207,Arjun Nair,East,Delhi,Mouse,2,650,0,5000,0,335,Online,Unkown,Unkown,Damaged
+1152,22-08-2025,C162,Priya Mehta,South,Maharastra,Keyboard,0,5400,0.5,0,0,335,Off Line,CASH,Amit ,No
+1153,05-08-2025,C189,Unkown ,North,Unkown State,Router,0,5400,0,999999,0,335,Online,CARD,Neha,Yes
+1154,19-05-2025,C132,Unkown ,East,Karnataka,Keyboard,0,650,0,0,0,335,Unkown,CARD,Ravi,Damaged
+1155,27-04-2025,C133,Arjun Nair,Unkown,Unkown State,USB Hub,0,5400,0.5,5000,0,335,Online,CARD,Amit,Unkown Status
+1156,17-07-2025,C107,Arjun Nair,West,Maharastra,Monitor,0,650,0.1,0,0,335,Online,UPI,Neha,Unkown Status
+1157,02-06-2025,C116,Arjun Nair,West,Karnataka,Router,2,1200,0.1,2160,1878,282,Offline,CASH,Neha,No
+1158,06-12-2025,C189,Priya  Mehta,West,Unkown State,Mouse,2,1200,0,2400,1364,1036,Online,CARD,Unkown,Yes
+1159,21-01-2025,C110,Priya Mehta,East,Karnataka,Router,2,1200,0,5000,0,1036,Offline,CARD,Neha,Damaged
+1160,11-05-2025,Unkown ID,Rahul Shah,West,West Bengal,Laptop,15,650,0,9750,5634,4116,Offline,CASH,Unkown,No
+1161,21-07-2025,Unkown ID,Rahul Shah,West,Odisha,Office Chair,0,650,0.5,5000,0,4116,Off Line,CARD,Amit,Yes
+1162,20-09-2025,C132,Rahul Shah,West,West Bengal,Keyboard,0,650,0.05,5000,0,4116,Online,CARD,Ravi,Unkown Status
+1163,14-04-2025,C179,Priya  Mehta,West,Unkown State,Desk,0,250,0.5,5000,0,4116,Online,CASH,Neha,Yes
+1164,04-05-2025,C130,Unkown ,North,Tamil Nadu,USB Hub,2,650,0,9999999,1278,22,Off Line,CARD,Amit,No
+1165,05-06-2025,C128,Arjun Nair,East,Delhi,Keyboard,2,5400,0.5,5400,8144,2744,Online,UPI,Amit,Damaged
+1166,06-09-2025,C184,Rahul Shah,South,Delhi,Desk,2,650,0,9999999,1144,156,Online,CASH,Unkown,Unkown Status
+1167,10-02-2025,C135,Unkown ,North,West Bengal,Tablet,0,250,0,5000,0,156,Unkown,CASH,Amit ,Yes
+1168,02-07-2025,Unkown ID,Priya Mehta,Unkown,Odisha,Router,4,250,0,1000,897,103,Off Line,UPI,Neha,Damaged
+1169,22-03-2025,C254,Priya  Mehta,West,Tamil Nadu,Mouse,0,5400,0,999999,0,103,Online,Unkown,Amit ,Yes
+1170,10-07-2025,C108,Rahul Shah,East,Tamil Nadu,Router,2,12500,0,25000,19871,5129,Off Line,UPI,Unkown,Yes
+1171,26-03-2025,C196,Unkown ,Unkown,Odisha,USB Hub,2,250,0.5,250,363,113,Unkown,CARD,Amit ,No
+1172,31-01-2025,C255,Arjun Nair,Unkown,Maharastra,Tablet,0,1200,0,999999,0,113,Online,CARD,Neha,Damaged
+1173,17-03-2025,C195,Rahul Shah,East,Odisha,Notebook Pack,2,5400,0.1,9720,6264,3456,Offline,CARD,Unkown,No
+1174,10-05-2025,C148,Priya  Mehta,South,Unkown State,Mouse,2,650,0.5,650,1171,521,Unkown,CARD,Neha,No
+1175,14-12-2025,C118,Rahul Shah,Unkown,Delhi,Notebook Pack,2,650,0.15,5000,0,521,Offline,CARD,Amit ,No
+1176,13-11-2025,C114,Rahul Shah,South,Maharashtra,Laptop,0,5400,0.1,0,0,521,Off Line,UPI,Neha,Yes
+1177,01-07-2025,C193,Arjun Nair,West,Maharashtra,Router,0,1200,0.5,5000,0,521,Online,Unkown,Amit,Unkown Status
+1178,09-10-2025,C183,Rahul Shah,West,Karnataka,Router,0,1200,0.15,0,0,521,Unkown,Unkown,Amit,No
+1179,07-02-2025,C166,Rahul Shah,South,Maharastra,Keyboard,0,12500,0,0,0,521,Off Line,UPI,Amit,Unkown Status
+1180,07-09-2025,C228,Rahul Shah,West,Tamil Nadu,USB Hub,2,5400,0.05,10260,10638,378,Offline,CARD,Neha,No
+1181,28-09-2025,C155,Rahul Shah,Unkown,Maharashtra,Mouse,0,5400,0.15,999999,0,378,Off Line,CASH,Ravi,No
+1182,05-09-2025,C185,Priya Mehta,East,Maharashtra,Keyboard,0,1200,0.15,999999,0,378,Online,CASH,Neha,Yes
+1183,18-01-2025,C243,Unkown ,West,Delhi,Tablet,0,650,0,0,0,378,Online,CASH,Ravi,Unkown Status
+1184,22-11-2025,C189,Priya  Mehta,East,Odisha,Laptop,0,650,0.1,999999,0,378,Offline,CARD,Ravi,Yes
+1185,04-01-2025,Unkown ID,Unkown ,Unkown,West Bengal,Keyboard,10,650,0.1,5850,6525,675,Unkown,CARD,Unkown,Unkown Status
+1186,08-04-2025,C120,Priya Mehta,South,Odisha,Desk,2,650,0,0,0,675,Online,CARD,Ravi,Unkown Status
+1187,26-03-2025,C260,Priya  Mehta,West,Karnataka,Laptop,2,650,0.5,650,907,257,Online,CARD,Neha,No
+1188,04-11-2025,C112,Rahul Shah,South,Tamil Nadu,Laptop,0,12500,0,0,0,257,Online,CARD,Ravi,Unkown Status
+1189,14-01-2025,C203,Priya  Mehta,South,Tamil Nadu,Laptop,2,250,0,500,469,31,Off Line,CARD,Amit ,Unkown Status
+1190,07-01-2025,C181,Priya  Mehta,South,Maharashtra,Office Chair,0,650,0,0,0,31,Unkown,UPI,Ravi,Unkown Status
+1191,03-10-2025,C250,Priya  Mehta,Unkown,Odisha,Mouse,0,650,0.15,0,0,31,Online,CARD,Unkown,Damaged
+1192,05-07-2025,Unkown ID,Priya Mehta,South,Maharashtra,Notebook Pack,8,650,0,999999,0,31,Offline,Unkown,Amit,No
+1193,04-03-2025,C239,Priya Mehta,Unkown,Tamil Nadu,Router,0,650,0.05,0,0,31,Offline,CARD,Amit,Unkown Status
+1194,05-05-2025,C213,Priya  Mehta,South,Maharastra,Desk,0,250,0,9999999,0,31,Off Line,CASH,Amit,Yes
+1195,29-07-2025,C196,Rahul Shah,South,Maharashtra,Router,2,650,0.05,1235,972,263,Off Line,CASH,Ravi,Damaged
+1196,19-10-2025,Unkown ID,Priya Mehta,South,West Bengal,Monitor,6,5400,0,32400,36407,4007,Unkown,CARD,Amit ,Yes
+1197,18-04-2025,Unkown ID,Priya Mehta,East,Tamil Nadu,Router,11,250,0.05,9999999,3251,638,Online,CARD,Neha,Unkown Status
+1198,28-03-2025,C218,Unkown ,South,Maharastra,Tablet,15,12500,0.05,178125,120181,57944,Online,UPI,Neha,Yes
+1199,24-12-2025,C126,Arjun Nair,West,Delhi,Monitor,0,12500,0.15,0,0,57944,Unkown,CARD,Unkown,No
+1200,12-09-2025,C119,Priya Mehta,West,Delhi,Router,0,250,0.1,999999,0,57944,Online,CARD,Neha,No
+1201,12-10-2025,C192,Arjun Nair,West,Maharashtra,Desk,0,12500,0.1,0,0,57944,Online,Unkown,Amit ,Unkown Status
+1202,16-07-2025,Unkown ID,Unkown ,North,Maharashtra,Mouse,0,12500,0.5,5000,0,57944,Offline,CARD,Unkown,No
+1203,14-11-2025,Unkown ID,Priya  Mehta,Unkown,Odisha,Desk,0,5400,0.5,0,0,57944,Off Line,CARD,Ravi,Damaged
+1204,19-11-2025,C190,Rahul Shah,East,West Bengal,USB Hub,0,250,0,0,0,57944,Unkown,CASH,Ravi,Damaged
+1205,28-06-2025,Unkown ID,Rahul Shah,North,Tamil Nadu,Monitor,0,12500,0.05,0,0,57944,Offline,CARD,Neha,Damaged
+1206,30-11-2025,Unkown ID,Arjun Nair,East,Delhi,Office Chair,0,5400,0,0,0,57944,Unkown,CARD,Ravi,Damaged
+1207,21-05-2025,Unkown ID,Priya  Mehta,West,Unkown State,Desk,0,12500,0.05,0,0,57944,Online,Unkown,Neha,Yes
+1208,25-09-2025,Unkown ID,Rahul Shah,Unkown,Karnataka,Laptop,0,250,0.5,0,0,57944,Online,CASH,Ravi,Yes
+1209,13-08-2025,C234,Unkown ,West,Karnataka,Keyboard,0,12500,0,0,0,57944,Off Line,Unkown,Ravi,No
+1210,01-06-2025,C210,Rahul Shah,South,Odisha,Mouse,0,12500,0.05,5000,0,57944,Online,CARD,Ravi,No
+1211,17-08-2025,C200,Unkown ,East,Maharashtra,Monitor,2,5400,0,10800,11747,947,Off Line,CARD,Amit,Damaged
+1212,11-03-2025,C102,Priya Mehta,West,Karnataka,Office Chair,9,5400,0.1,5000,0,947,Off Line,Unkown,Amit,No
+1213,09-02-2025,C246,Unkown ,West,Karnataka,USB Hub,8,5400,0.05,5000,0,947,Online,CARD,Unkown,Damaged
+1214,13-03-2025,C112,Priya Mehta,South,Odisha,Mouse,9,650,0.5,2925,4050,1125,Online,Unkown,Ravi,Unkown Status
+1215,19-09-2025,Unkown ID,Arjun Nair,North,Maharastra,Office Chair,0,1200,0.05,0,0,1125,Online,Unkown,Unkown,Damaged
+1216,14-03-2025,C193,Unkown ,West,Maharashtra,Tablet,1,5400,0.5,2700,5812,3112,Offline,Unkown,Ravi,Yes
+1217,31-10-2025,Unkown ID,Priya  Mehta,East,Karnataka,Mouse,0,5400,0,5000,0,3112,Offline,UPI,Neha,Damaged
+1218,15-10-2025,C142,Priya  Mehta,West,West Bengal,Mouse,0,650,0,5000,0,3112,Online,Unkown,Amit,Yes
+1219,26-01-2025,C157,Arjun Nair,West,Unkown State,Office Chair,3,650,0.05,0,0,3112,Off Line,CASH,Neha,Unkown Status
+1220,20-03-2025,Unkown ID,Rahul Shah,North,Tamil Nadu,Mouse,7,1200,0.15,7140,5117,2023,Unkown,UPI,Neha,Damaged
+1221,05-04-2025,C185,Unkown ,West,Maharashtra,Tablet,0,1200,0.5,5000,0,2023,Off Line,CASH,Amit,Damaged
+1222,17-02-2025,Unkown ID,Arjun Nair,Unkown,Delhi,Mouse,2,1200,0,2400,2700,300,Offline,CARD,Ravi,No
+1223,21-02-2025,C100,Priya Mehta,West,West Bengal,Laptop,0,1200,0.15,0,0,300,Online,CARD,Amit,Unkown Status
+1224,14-10-2025,C124,Rahul Shah,West,Tamil Nadu,USB Hub,2,250,0,500,264,236,Off Line,CARD,Amit ,Unkown Status
+1225,06-12-2025,C141,Priya  Mehta,West,Odisha,Laptop,2,1200,0.05,2280,1639,641,Offline,UPI,Neha,Damaged
+1226,05-10-2025,Unkown ID,Priya Mehta,North,Maharashtra,Notebook Pack,0,650,0.1,0,0,641,Offline,CARD,Unkown,Yes
+1227,08-01-2025,Unkown ID,Priya  Mehta,Unkown,Karnataka,Mouse,0,650,0,999999,0,641,Off Line,Unkown,Neha,No
+1228,03-03-2025,C121,Priya Mehta,North,Maharashtra,Mouse,0,250,0,0,0,641,Offline,CASH,Ravi,No
+1229,25-08-2025,C251,Arjun Nair,East,Maharastra,Laptop,0,650,0,5000,0,641,Offline,CASH,Neha,Yes
+1230,23-04-2025,C184,Unkown ,West,Unkown State,Notebook Pack,0,250,0,0,0,641,Online,CASH,Amit ,No
+1231,28-06-2025,Unkown ID,Priya  Mehta,West,Unkown State,Keyboard,0,250,0,0,0,641,Unkown,CARD,Amit ,Damaged
+1232,20-09-2025,C251,Priya  Mehta,West,Delhi,Monitor,0,650,0.05,0,0,641,Offline,Unkown,Neha,No
+1233,22-07-2025,Unkown ID,Unkown ,West,Karnataka,Tablet,2,1200,0,2400,1705,695,Online,Unkown,Amit ,Damaged
+1234,23-08-2025,C185,Priya Mehta,West,Odisha,Office Chair,2,12500,0,25000,17612,7388,Online,CARD,Unkown,Damaged
+1235,03-10-2025,C161,Priya  Mehta,West,Maharashtra,Office Chair,0,5400,0.1,999999,0,7388,Online,CARD,Neha,Unkown Status
+1236,09-11-2025,Unkown ID,Arjun Nair,Unkown,Karnataka,Keyboard,7,250,0,1750,1090,660,Off Line,CARD,Unkown,Unkown Status
+1237,13-12-2025,C241,Rahul Shah,West,Maharastra,Keyboard,0,250,0.15,0,0,660,Online,Unkown,Ravi,Unkown Status
+1238,05-12-2025,C233,Rahul Shah,West,Unkown State,Desk,6,250,0,1500,1682,182,Off Line,Unkown,Ravi,Yes
+1239,23-08-2025,Unkown ID,Priya Mehta,West,West Bengal,Keyboard,4,5400,0.05,20520,22100,1580,Online,CARD,Ravi,No
+1240,28-07-2025,Unkown ID,Priya  Mehta,South,West Bengal,Tablet,2,250,0,500,436,64,Offline,CARD,Amit,Yes
+1241,24-09-2025,C143,Rahul Shah,South,Maharastra,Tablet,0,1200,0.1,999999,0,64,Online,Unkown,Amit ,No
+1242,05-07-2025,Unkown ID,Unkown ,South,Delhi,Mouse,2,12500,0,25000,19644,5356,Online,UPI,Neha,Unkown Status
+1243,29-08-2025,C243,Arjun Nair,East,Odisha,Office Chair,0,12500,0,999999,0,5356,Online,UPI,Neha,Unkown Status
+1244,04-07-2025,C167,Rahul Shah,West,Maharastra,Monitor,0,650,0,0,0,5356,Online,Unkown,Amit ,Unkown Status
+1245,13-09-2025,C186,Priya  Mehta,North,Maharastra,Router,0,1200,0,0,0,5356,Online,CARD,Amit,Yes
+1246,26-07-2025,C246,Arjun Nair,West,Tamil Nadu,Keyboard,0,12500,0,999999,0,5356,Off Line,CASH,Neha,Damaged
+1247,21-05-2025,C254,Rahul Shah,South,Karnataka,Mouse,5,1200,0,6000,5390,610,Online,CASH,Amit,No
+1248,16-06-2025,Unkown ID,Priya  Mehta,North,Unkown State,Router,9,5400,0.5,24300,43178,18878,Online,CARD,Amit ,No
+1249,31-05-2025,C184,Rahul Shah,North,Karnataka,Notebook Pack,0,1200,0,5000,0,18878,Online,CARD,Neha,No
+1250,18-05-2025,C208,Priya  Mehta,South,Delhi,USB Hub,2,5400,0.5,5400,12616,7216,Online,CASH,Neha,Unkown Status
+1251,09-05-2025,C222,Priya Mehta,East,Unkown State,USB Hub,0,1200,0.5,0,0,7216,Offline,CASH,Neha,No
+1252,22-09-2025,C104,Priya  Mehta,West,Karnataka,Router,0,1200,0,0,0,7216,Unkown,UPI,Amit,Unkown Status
+1253,07-01-2025,C167,Arjun Nair,West,Tamil Nadu,USB Hub,0,1200,0.1,0,0,7216,Online,Unkown,Amit,Damaged
+1254,25-06-2025,Unkown ID,Unkown ,East,Delhi,Tablet,0,5400,0,0,0,7216,Unkown,CARD,Ravi,Damaged
+1255,09-05-2025,C149,Arjun Nair,Unkown,Maharastra,Office Chair,2,650,0.05,1235,662,573,Unkown,CARD,Amit ,No
+1256,09-05-2025,C122,Priya Mehta,Unkown,Delhi,Tablet,2,5400,0,10800,10234,566,Offline,CARD,Ravi,Damaged
+1257,20-02-2025,C251,Unkown ,East,Unkown State,Monitor,10,5400,0.05,51300,42128,9172,Offline,Unkown,Unkown,Damaged
+1258,02-03-2025,Unkown ID,Rahul Shah,West,Karnataka,Mouse,2,12500,0,25000,25541,541,Online,CARD,Amit,Yes
+1259,20-01-2025,Unkown ID,Priya Mehta,North,Maharashtra,Notebook Pack,2,1200,0,9999999,1458,942,Online,UPI,Neha,Yes
+1260,25-03-2025,Unkown ID,Rahul Shah,Unkown,Maharastra,Laptop,2,12500,0,25000,26874,1874,Unkown,CARD,Neha,No
+1261,05-12-2025,Unkown ID,Unkown ,East,Maharashtra,Notebook Pack,0,250,0.05,5000,0,1874,Off Line,CARD,Amit,Yes
+1262,26-02-2025,C122,Rahul Shah,South,Delhi,Monitor,0,250,0,999999,0,1874,Online,CASH,Neha,Damaged
+1263,21-06-2025,C149,Rahul Shah,West,Delhi,USB Hub,2,5400,0.15,9180,12384,3204,Offline,UPI,Amit,No
+1264,16-01-2025,C134,Priya Mehta,Unkown,West Bengal,Desk,0,1200,0,999999,0,3204,Online,CASH,Amit ,No
+1265,25-03-2025,Unkown ID,Arjun Nair,North,Maharashtra,Office Chair,9,1200,0.05,10260,9512,748,Online,UPI,Neha,Unkown Status
+1266,30-09-2025,C141,Arjun Nair,East,Odisha,Tablet,2,5400,0.05,10260,6999,3261,Unkown,CARD,Amit ,No
+1267,22-04-2025,C103,Arjun Nair,East,Delhi,Keyboard,2,12500,0,25000,15413,9587,Online,Unkown,Neha,Unkown Status
+1268,15-01-2025,C153,Arjun Nair,Unkown,Tamil Nadu,Monitor,10,12500,0.15,999999,0,9587,Online,CARD,Amit,No
+1269,14-03-2025,C128,Unkown ,West,West Bengal,Desk,3,1200,0.1,3240,2795,445,Offline,Unkown,Unkown,No
+1270,24-08-2025,C187,Rahul Shah,East,Karnataka,Monitor,0,1200,0,999999,0,445,Online,CARD,Amit,No
+1271,04-12-2025,C179,Arjun Nair,North,Maharashtra,Keyboard,8,250,0.15,1700,1356,344,Unkown,CARD,Amit,No
+1272,18-05-2025,Unkown ID,Rahul Shah,West,Tamil Nadu,Keyboard,0,1200,0.1,0,0,344,Offline,CARD,Ravi,Damaged
+1273,16-01-2025,C157,Unkown ,South,Karnataka,Desk,5,250,0,1250,1206,44,Offline,CASH,Amit,Damaged
+1274,01-03-2025,C217,Priya  Mehta,East,Delhi,Office Chair,2,5400,0.05,10260,12278,2018,Online,UPI,Neha,No
+1275,16-08-2025,Unkown ID,Rahul Shah,West,Delhi,Notebook Pack,2,5400,0.05,5000,0,2018,Off Line,UPI,Amit,Damaged
+1276,03-05-2025,C143,Arjun Nair,North,Delhi,Monitor,0,5400,0.15,0,0,2018,Off Line,CASH,Amit,Yes
+1277,04-07-2025,C130,Unkown ,East,West Bengal,Keyboard,9,5400,0,5000,0,2018,Off Line,UPI,Neha,Yes
+1278,07-12-2025,C135,Arjun Nair,North,Maharastra,Tablet,12,1200,0,14400,16299,1899,Offline,UPI,Neha,Damaged
+1279,11-02-2025,C215,Arjun Nair,East,Tamil Nadu,Mouse,0,12500,0.05,0,0,1899,Offline,UPI,Ravi,Damaged
+1280,02-09-2025,C230,Unkown ,West,Karnataka,USB Hub,0,650,0,999999,0,1899,Off Line,CASH,Neha,Unkown Status
+1281,01-04-2025,C205,Priya  Mehta,West,Odisha,Keyboard,4,650,0.5,1300,2777,1477,Off Line,CARD,Neha,Damaged
+1282,04-05-2025,Unkown ID,Unkown ,North,Tamil Nadu,Notebook Pack,0,250,0.05,0,0,1477,Unkown,Unkown,Amit ,Unkown Status
+1283,05-12-2025,C138,Arjun Nair,West,Maharastra,Monitor,2,250,0,500,566,66,Offline,CARD,Amit ,No
+1284,03-06-2025,C231,Unkown ,North,Unkown State,Notebook Pack,0,12500,0.5,0,0,66,Online,CARD,Amit ,Yes
+1285,11-05-2025,Unkown ID,Rahul Shah,South,Delhi,Laptop,2,650,0,1300,949,351,Off Line,Unkown,Ravi,Yes
+1286,16-06-2025,C159,Priya Mehta,Unkown,Maharastra,Office Chair,0,1200,0,5000,0,351,Off Line,CASH,Neha,Yes
+1287,17-05-2025,C109,Priya Mehta,East,Maharastra,Monitor,2,1200,0.5,1200,2112,912,Off Line,CASH,Neha,Damaged
+1288,13-12-2025,Unkown ID,Rahul Shah,West,West Bengal,Notebook Pack,0,1200,0.05,5000,0,912,Offline,CASH,Ravi,Unkown Status
+1289,03-02-2025,C216,Rahul Shah,West,Karnataka,Laptop,2,1200,0.5,999999,0,912,Online,CARD,Amit,Yes
+1290,03-02-2025,Unkown ID,Priya  Mehta,North,Maharashtra,Laptop,2,250,0.05,475,302,173,Unkown,CASH,Ravi,Unkown Status
+1291,03-09-2025,C166,Rahul Shah,South,Tamil Nadu,Router,2,12500,0,25000,24691,309,Online,CASH,Neha,Damaged
+1292,06-11-2025,C243,Priya  Mehta,East,Maharastra,Router,12,650,0.1,7020,8252,1232,Online,UPI,Neha,Yes
+1293,29-12-2025,C215,Rahul Shah,West,Unkown State,USB Hub,0,250,0.05,5000,0,1232,Off Line,CARD,Ravi,Damaged
+1294,19-06-2025,C114,Priya  Mehta,West,Karnataka,Notebook Pack,0,250,0,5000,0,1232,Offline,CARD,Neha,Unkown Status
+1295,14-05-2025,C133,Priya Mehta,East,Odisha,Router,0,12500,0,0,0,1232,Online,UPI,Ravi,No
+1296,02-05-2025,C144,Priya Mehta,East,Maharashtra,Mouse,6,12500,0,75000,64868,10132,Off Line,CARD,Ravi,No
+1297,05-02-2025,Unkown ID,Unkown ,West,West Bengal,Notebook Pack,2,1200,0,2400,2001,399,Online,CARD,Amit ,Unkown Status
+1298,23-02-2025,C122,Arjun Nair,North,Maharashtra,Notebook Pack,3,5400,0,16200,15123,1077,Online,CASH,Amit ,No
+1299,24-12-2025,C124,Arjun Nair,West,Tamil Nadu,Notebook Pack,2,1200,0.05,2280,2575,295,Off Line,CARD,Neha,Yes
+1300,07-08-2025,C186,Priya Mehta,East,Delhi,Monitor,2,5400,0.05,10260,12630,2370,Online,Unkown,Amit ,Yes
+1301,08-03-2025,C149,Rahul Shah,South,Karnataka,Laptop,2,5400,0.05,5000,0,2370,Offline,CASH,Unkown,Yes
+1302,29-01-2025,C159,Arjun Nair,West,West Bengal,USB Hub,1,1200,0.05,1140,1313,173,Online,CASH,Ravi,Unkown Status
+1303,21-07-2025,C196,Priya Mehta,West,Maharastra,USB Hub,0,1200,0,0,0,173,Offline,CARD,Ravi,Unkown Status
+1304,16-06-2025,Unkown ID,Priya Mehta,North,Odisha,Laptop,0,1200,0,0,0,173,Unkown,UPI,Neha,Damaged
+1305,29-08-2025,C154,Arjun Nair,South,Karnataka,Monitor,2,1200,0,2400,2717,317,Online,UPI,Neha,No
+1306,27-01-2025,C218,Unkown ,South,Unkown State,Office Chair,2,1200,0.1,2160,2433,273,Online,CARD,Amit,No
+1307,02-08-2025,C103,Priya Mehta,South,Odisha,Monitor,11,5400,0.5,29700,53369,23669,Offline,Unkown,Amit,Yes
+1308,21-09-2025,C191,Priya  Mehta,Unkown,Maharashtra,Mouse,2,650,0.15,1105,1230,125,Off Line,CARD,Ravi,Unkown Status
+1309,21-09-2025,C225,Rahul Shah,West,Tamil Nadu,USB Hub,0,650,0,5000,0,125,Online,CARD,Ravi,No
+1310,17-04-2025,C105,Priya  Mehta,West,Karnataka,Notebook Pack,0,12500,0.05,0,0,125,Off Line,UPI,Amit ,Yes
+1311,13-05-2025,C254,Unkown ,North,Unkown State,Laptop,2,1200,0,2400,1478,922,Unkown,CASH,Neha,Yes
+1312,31-03-2025,C249,Priya  Mehta,West,Unkown State,USB Hub,0,1200,0,999999,0,922,Online,Unkown,Amit,Damaged
+1313,05-02-2025,C243,Arjun Nair,East,Tamil Nadu,Mouse,0,5400,0,0,0,922,Offline,CARD,Amit ,Unkown Status
+1314,05-06-2025,C141,Priya Mehta,East,Delhi,Keyboard,0,250,0.5,0,0,922,Off Line,CARD,Amit ,Damaged
+1315,30-08-2025,Unkown ID,Rahul Shah,Unkown,Tamil Nadu,Notebook Pack,0,250,0.1,5000,0,922,Online,Unkown,Amit,Unkown Status
+1316,21-06-2025,C200,Priya Mehta,East,Maharashtra,Laptop,2,1200,0.5,1200,2258,1058,Off Line,Unkown,Neha,Unkown Status
+1317,01-12-2025,C137,Arjun Nair,West,Maharastra,Tablet,0,1200,0,0,0,1058,Off Line,CARD,Ravi,No
+1318,14-01-2025,Unkown ID,Unkown ,East,West Bengal,Tablet,9,1200,0.5,5400,9422,4022,Off Line,UPI,Ravi,Unkown Status
+1319,08-11-2025,C244,Arjun Nair,East,Delhi,Tablet,13,1200,0.1,14040,10944,3096,Off Line,UPI,Amit,Yes
+1320,13-03-2025,C137,Priya Mehta,West,Maharastra,Router,2,650,0.5,650,1151,501,Offline,Unkown,Neha,No
+1321,17-07-2025,C123,Priya  Mehta,North,Tamil Nadu,Router,1,250,0.05,238,147,91,Offline,UPI,Amit ,Yes
+1322,12-04-2025,C191,Priya Mehta,South,Delhi,Office Chair,2,5400,0.1,9720,8773,947,Online,CARD,Neha,Yes
+1323,29-06-2025,Unkown ID,Rahul Shah,Unkown,Maharashtra,Desk,9,5400,0.15,41310,54284,12974,Online,Unkown,Neha,Yes
+1324,15-10-2025,Unkown ID,Priya Mehta,West,Maharastra,Keyboard,12,12500,0,150000,171894,21894,Online,CASH,Amit ,Yes
+1325,06-12-2025,Unkown ID,Rahul Shah,Unkown,Tamil Nadu,Tablet,2,650,0.1,1170,1554,384,Unkown,UPI,Neha,Unkown Status
+1326,14-10-2025,Unkown ID,Priya Mehta,Unkown,Unkown State,Router,14,5400,0,75600,77858,2258,Online,CARD,Amit ,Unkown Status
+1327,07-08-2025,C122,Priya Mehta,West,Maharastra,Router,15,12500,0,187500,150892,36608,Online,UPI,Unkown,Damaged
+1328,19-02-2025,C226,Arjun Nair,North,Delhi,Router,0,650,0.5,0,0,36608,Off Line,CARD,Unkown,Unkown Status
+1329,12-06-2025,C202,Rahul Shah,West,Tamil Nadu,Router,0,1200,0,999999,0,36608,Online,CARD,Amit,Damaged
+1330,14-02-2025,C120,Unkown ,Unkown,Unkown State,Monitor,0,1200,0,0,0,36608,Offline,UPI,Unkown,Yes
+1331,14-05-2025,C186,Priya Mehta,East,Karnataka,Router,5,650,0.05,3088,3687,600,Online,Unkown,Neha,Damaged
+1332,02-08-2025,C180,Rahul Shah,West,Maharastra,Mouse,2,5400,0,10800,9407,1393,Online,CARD,Neha,No
+1333,27-07-2025,Unkown ID,Unkown ,East,West Bengal,USB Hub,6,12500,0.15,63750,77499,13749,Offline,CASH,Amit,Unkown Status
+1334,27-02-2025,C227,Arjun Nair,South,Maharastra,USB Hub,0,1200,0,0,0,13749,Off Line,UPI,Ravi,Damaged
+1335,16-10-2025,C223,Priya Mehta,Unkown,Tamil Nadu,Tablet,0,1200,0.1,5000,0,13749,Unkown,UPI,Amit ,No
+1336,06-02-2025,C231,Priya  Mehta,West,Karnataka,Monitor,0,250,0.05,0,0,13749,Online,CASH,Amit,Damaged
+1337,24-05-2025,C245,Rahul Shah,Unkown,Maharastra,Tablet,0,250,0.5,0,0,13749,Offline,UPI,Neha,No
+1338,21-09-2025,Unkown ID,Priya  Mehta,West,Delhi,USB Hub,2,250,0,500,511,11,Offline,Unkown,Ravi,No
+1339,28-01-2025,C259,Priya  Mehta,East,Tamil Nadu,Tablet,0,12500,0.05,0,0,11,Online,CARD,Neha,Yes
+1340,18-03-2025,C128,Priya Mehta,South,Delhi,Notebook Pack,2,5400,0.5,5400,11070,5670,Offline,Unkown,Neha,Yes
+1341,03-01-2025,C161,Rahul Shah,East,Maharastra,Office Chair,2,250,0.05,475,591,116,Online,Unkown,Neha,Yes
+1342,06-11-2025,C146,Arjun Nair,West,Odisha,Monitor,6,5400,0,32400,23197,9203,Off Line,CARD,Unkown,Yes
+1343,10-08-2025,C127,Rahul Shah,East,Tamil Nadu,USB Hub,2,250,0,500,507,7,Online,CASH,Neha,No
+1344,22-02-2025,C148,Unkown ,North,Karnataka,Mouse,0,250,0.15,0,0,7,Off Line,UPI,Unkown,Yes
+1345,21-02-2025,C150,Rahul Shah,West,West Bengal,Tablet,0,1200,0,5000,0,7,Online,Unkown,Amit ,Damaged
+1346,13-02-2025,C114,Priya Mehta,South,Delhi,Office Chair,2,1200,0.05,2280,1367,913,Unkown,Unkown,Ravi,No
+1347,31-08-2025,C132,Unkown ,East,Tamil Nadu,Laptop,0,12500,0,0,0,913,Online,UPI,Ravi,Yes
+1348,26-10-2025,C168,Priya  Mehta,South,Maharastra,Router,2,5400,0.05,10260,5427,4833,Off Line,CARD,Unkown,Yes
+1349,14-05-2025,Unkown ID,Rahul Shah,West,Karnataka,Laptop,3,1200,0,3600,4004,404,Online,CARD,Neha,Damaged
+1350,26-11-2025,C244,Arjun Nair,Unkown,Karnataka,Desk,0,650,0.1,0,0,404,Offline,CARD,Ravi,Yes
+1351,03-08-2025,C210,Rahul Shah,Unkown,West Bengal,Router,2,1200,0.5,1200,2000,800,Unkown,CARD,Amit ,Unkown Status
+1352,29-12-2025,Unkown ID,Arjun Nair,West,Karnataka,Desk,0,1200,0.1,999999,0,800,Online,CARD,Neha,Damaged
+1353,13-12-2025,C193,Rahul Shah,South,Maharashtra,Tablet,2,250,0.15,425,587,162,Online,CARD,Ravi,Unkown Status
+1354,06-04-2025,Unkown ID,Priya Mehta,South,Unkown State,Laptop,0,1200,0,999999,0,162,Off Line,CASH,Amit ,Yes
+1355,25-11-2025,Unkown ID,Arjun Nair,West,Karnataka,Tablet,0,250,0.15,999999,0,162,Online,CARD,Amit,No
+1356,14-08-2025,C201,Arjun Nair,West,Maharastra,Office Chair,2,250,0,500,380,120,Online,CARD,Unkown,No
+1357,07-04-2025,C105,Priya  Mehta,Unkown,Karnataka,Router,0,250,0,0,0,120,Unkown,CARD,Ravi,No
+1358,16-06-2025,C232,Rahul Shah,East,Delhi,Mouse,2,1200,0.15,9999999,2737,697,Offline,UPI,Ravi,Damaged
+1359,05-08-2025,C185,Priya Mehta,East,Maharashtra,Notebook Pack,0,1200,0.15,0,0,697,Online,UPI,Unkown,Damaged
+1360,03-11-2025,C144,Unkown ,Unkown,Maharastra,Keyboard,13,1200,0,15600,16019,419,Online,CASH,Amit ,Yes
+1361,04-02-2025,C123,Arjun Nair,West,Maharastra,Office Chair,2,1200,0,2400,1784,616,Offline,UPI,Neha,Damaged
+1362,29-05-2025,C238,Unkown ,South,Odisha,USB Hub,0,1200,0,0,0,616,Online,UPI,Ravi,Unkown Status
+1363,12-12-2025,C129,Unkown ,West,Odisha,Mouse,7,650,0,4550,2905,1645,Online,Unkown,Ravi,Yes
+1364,27-12-2025,Unkown ID,Priya  Mehta,West,Maharashtra,Office Chair,0,650,0.15,5000,0,1645,Unkown,Unkown,Neha,Yes
+1365,31-03-2025,C166,Rahul Shah,North,Tamil Nadu,Notebook Pack,0,1200,0.5,0,0,1645,Unkown,UPI,Neha,Unkown Status
+1366,14-12-2025,C239,Rahul Shah,North,Unkown State,Tablet,0,1200,0.15,999999,0,1645,Offline,UPI,Unkown,No
+1367,16-11-2025,C251,Rahul Shah,West,Tamil Nadu,Router,13,650,0,8450,9841,1391,Unkown,CARD,Amit ,No
+1368,19-12-2025,C216,Priya Mehta,North,Odisha,Tablet,10,650,0.1,5850,4946,904,Online,CARD,Unkown,No
+1369,26-12-2025,Unkown ID,Priya  Mehta,West,Karnataka,Desk,0,12500,0,0,0,904,Offline,CASH,Amit,Damaged
+1370,15-03-2025,Unkown ID,Unkown ,East,Karnataka,Mouse,0,12500,0,5000,0,904,Online,Unkown,Amit,Yes
+1371,14-08-2025,C218,Arjun Nair,Unkown,Unkown State,Laptop,0,5400,0.05,0,0,904,Off Line,CARD,Neha,Yes
+1372,05-04-2025,C220,Priya Mehta,West,Karnataka,Tablet,10,1200,0.1,10800,8928,1872,Online,Unkown,Neha,Yes
+1373,01-01-2025,C177,Rahul Shah,Unkown,Tamil Nadu,Keyboard,5,1200,0.15,999999,0,1872,Off Line,CARD,Amit,Yes
+1374,18-09-2025,C138,Priya  Mehta,East,Maharastra,Router,3,650,0,1950,1763,187,Off Line,CARD,Neha,Yes
+1375,15-09-2025,C224,Priya Mehta,East,Maharashtra,USB Hub,2,650,0,1300,1361,61,Unkown,CARD,Neha,Yes
+1376,10-07-2025,C126,Priya  Mehta,North,West Bengal,Keyboard,5,250,0,1250,1126,124,Offline,CARD,Neha,No
+1377,14-02-2025,C167,Arjun Nair,West,West Bengal,Desk,0,650,0,0,0,124,Offline,UPI,Amit,Unkown Status
+1378,20-08-2025,C225,Priya Mehta,South,Maharashtra,Tablet,2,5400,0,10800,12439,1639,Online,Unkown,Amit,Damaged
+1379,27-10-2025,Unkown ID,Priya Mehta,East,Maharastra,Mouse,11,12500,0.05,130625,113155,17470,Offline,CARD,Neha,No
+1380,08-07-2025,C210,Arjun Nair,West,Unkown State,Keyboard,0,5400,0,0,0,17470,Off Line,CARD,Neha,Damaged
+1381,03-12-2025,Unkown ID,Unkown ,West,Odisha,Notebook Pack,0,1200,0,0,0,17470,Online,CASH,Amit,Unkown Status
+1382,07-10-2025,C141,Priya  Mehta,West,Delhi,Router,0,1200,0.05,5000,0,17470,Unkown,Unkown,Amit,No
+1383,03-06-2025,Unkown ID,Rahul Shah,East,Karnataka,Office Chair,0,5400,0,0,0,17470,Unkown,CARD,Ravi,No
+1384,30-11-2025,C214,Priya Mehta,East,Maharastra,USB Hub,0,650,0.5,0,0,17470,Online,CARD,Amit,No
+1385,18-01-2025,C213,Arjun Nair,Unkown,Unkown State,Monitor,2,5400,0.1,9720,9226,494,Off Line,CASH,Neha,Damaged
+1386,14-01-2025,C138,Priya  Mehta,West,Delhi,Notebook Pack,4,650,0.1,2340,2794,454,Online,CARD,Neha,Unkown Status
+1387,25-01-2025,C124,Priya  Mehta,East,West Bengal,USB Hub,1,250,0.15,212,136,76,Unkown,CASH,Unkown,Damaged
+1388,22-10-2025,Unkown ID,Unkown ,Unkown,Odisha,Router,0,250,0,5000,0,76,Unkown,Unkown,Ravi,Yes
+1389,12-06-2025,Unkown ID,Priya  Mehta,South,Odisha,Mouse,0,12500,0.5,0,0,76,Off Line,CASH,Neha,Yes
+1390,08-10-2025,C132,Rahul Shah,South,Tamil Nadu,Tablet,0,5400,0.15,0,0,76,Online,CASH,Unkown,No
+1391,25-11-2025,C235,Priya Mehta,East,Maharastra,Office Chair,0,5400,0,5000,0,76,Online,Unkown,Unkown,Damaged
+1392,07-04-2025,C136,Arjun Nair,Unkown,Unkown State,Laptop,14,650,0,9100,9281,181,Offline,CASH,Ravi,Damaged
+1393,09-06-2025,C253,Rahul Shah,West,Tamil Nadu,Keyboard,0,12500,0.5,0,0,181,Online,CARD,Neha,Yes
+1394,25-04-2025,Unkown ID,Rahul Shah,South,Karnataka,Office Chair,15,5400,0.05,9999999,62041,14909,Off Line,UPI,Amit,Yes
+1395,04-05-2025,C106,Unkown ,West,Maharastra,USB Hub,11,650,0.15,6078,5010,1067,Online,CARD,Amit,No
+1396,30-10-2025,C260,Rahul Shah,West,Unkown State,Notebook Pack,2,650,0.5,650,1071,421,Offline,CARD,Amit,Unkown Status
+1397,10-04-2025,C245,Arjun Nair,West,Odisha,Notebook Pack,2,1200,0.1,2160,2387,227,Online,CASH,Amit ,Damaged
+1398,28-08-2025,C245,Priya  Mehta,Unkown,Tamil Nadu,Monitor,0,650,0.05,0,0,227,Online,CARD,Ravi,Damaged
+1399,24-01-2025,C144,Unkown ,West,Delhi,Desk,1,5400,0,5400,4258,1142,Off Line,CARD,Neha,No
+1400,02-05-2025,C178,Unkown ,East,Maharastra,Laptop,11,1200,0,13200,12207,993,Offline,CARD,Ravi,No
+1401,02-05-2025,Unkown ID,Priya  Mehta,East,Odisha,Monitor,2,12500,0.1,22500,12719,9781,Online,Unkown,Neha,No
+1402,27-09-2025,Unkown ID,Rahul Shah,East,Delhi,Desk,2,12500,0.5,12500,12936,436,Off Line,CASH,Amit,Damaged
+1403,22-05-2025,C100,Arjun Nair,Unkown,Unkown State,Office Chair,0,12500,0,5000,0,436,Online,CASH,Neha,Yes
+1404,18-10-2025,C244,Rahul Shah,East,Unkown State,Notebook Pack,0,12500,0,999999,0,436,Unkown,UPI,Unkown,Unkown Status
+1405,08-01-2025,C182,Priya  Mehta,West,Karnataka,Laptop,0,1200,0.05,5000,0,436,Offline,CARD,Neha,Unkown Status
+1406,14-03-2025,Unkown ID,Rahul Shah,East,Odisha,Keyboard,2,650,0,1300,1158,142,Online,UPI,Neha,Unkown Status
+1407,27-01-2025,C131,Unkown ,Unkown,Delhi,Tablet,6,650,0.15,3315,2315,1000,Online,CARD,Amit,Damaged
+1408,15-03-2025,C224,Priya Mehta,South,Karnataka,Laptop,0,250,0,0,0,1000,Unkown,CASH,Neha,Yes
+1409,16-12-2025,C137,Rahul Shah,East,West Bengal,Router,0,650,0.5,999999,0,1000,Offline,UPI,Unkown,No
+1410,06-06-2025,Unkown ID,Rahul Shah,West,West Bengal,Desk,0,5400,0,0,0,1000,Offline,CARD,Neha,No
+1411,04-01-2025,C123,Priya Mehta,North,Unkown State,Laptop,2,5400,0.15,0,0,1000,Online,CARD,Neha,Damaged
+1412,21-08-2025,C192,Priya Mehta,East,Delhi,Router,0,1200,0,0,0,1000,Off Line,CASH,Neha,Damaged
+1413,15-11-2025,Unkown ID,Rahul Shah,Unkown,Unkown State,Office Chair,2,1200,0.15,2040,1373,667,Offline,CARD,Amit ,Yes
+1414,04-09-2025,Unkown ID,Priya  Mehta,West,Delhi,Office Chair,0,1200,0.15,5000,0,667,Online,Unkown,Amit ,Unkown Status
+1415,29-10-2025,C256,Priya Mehta,North,West Bengal,Notebook Pack,14,5400,0,75600,90238,14638,Unkown,Unkown,Ravi,Yes
+1416,11-01-2025,C205,Priya Mehta,West,Delhi,Monitor,0,1200,0.15,0,0,14638,Unkown,Unkown,Unkown,Damaged
+1417,25-02-2025,Unkown ID,Rahul Shah,West,Unkown State,Office Chair,0,12500,0.15,0,0,14638,Unkown,CARD,Neha,Damaged
+1418,17-07-2025,C226,Unkown ,West,Unkown State,USB Hub,0,12500,0,0,0,14638,Online,UPI,Neha,Yes
+1419,02-06-2025,Unkown ID,Rahul Shah,West,Maharashtra,Monitor,0,12500,0,999999,0,14638,Unkown,CASH,Ravi,No
+1420,16-06-2025,C209,Rahul Shah,West,Unkown State,Tablet,2,12500,0,999999,0,14638,Offline,CASH,Neha,Damaged
+1421,21-08-2025,C134,Priya  Mehta,West,Maharastra,Notebook Pack,0,1200,0.1,5000,0,14638,Offline,UPI,Neha,Unkown Status
+1422,14-11-2025,C181,Unkown ,West,Maharastra,Tablet,2,650,0.5,650,1291,641,Online,CARD,Amit ,Unkown Status
+1423,13-07-2025,C102,Rahul Shah,Unkown,Maharastra,Tablet,0,5400,0,5000,0,641,Offline,Unkown,Amit,Damaged
+1424,22-04-2025,C183,Priya  Mehta,South,West Bengal,Keyboard,2,5400,0.5,5000,0,641,Online,CARD,Amit ,Yes
+1425,12-04-2025,Unkown ID,Rahul Shah,West,West Bengal,Tablet,0,12500,0.05,0,0,641,Online,UPI,Ravi,Yes
+1426,05-06-2025,Unkown ID,Arjun Nair,West,Unkown State,Router,0,1200,0,0,0,641,Online,CARD,Ravi,Yes
+1427,12-04-2025,Unkown ID,Rahul Shah,West,West Bengal,Router,0,650,0.05,0,0,641,Online,UPI,Neha,Yes
+1428,14-02-2025,Unkown ID,Arjun Nair,South,Maharashtra,Tablet,0,12500,0.05,0,0,641,Offline,CARD,Ravi,No
+1429,07-05-2025,C163,Priya  Mehta,Unkown,Karnataka,Keyboard,2,1200,0,2400,2037,363,Offline,CARD,Amit ,Damaged
+1430,31-12-2025,C187,Arjun Nair,South,Delhi,Desk,0,1200,0,5000,0,363,Off Line,CARD,Ravi,Yes
+1431,21-06-2025,Unkown ID,Arjun Nair,East,Karnataka,Tablet,2,5400,0.05,10260,6905,3355,Online,Unkown,Unkown,Yes
+1432,21-02-2025,C186,Priya Mehta,Unkown,Odisha,Tablet,11,5400,0,59400,60916,1516,Off Line,Unkown,Amit ,Unkown Status
+1433,04-06-2025,C239,Unkown ,North,Delhi,Mouse,0,5400,0.5,999999,0,1516,Online,UPI,Neha,No
+1434,09-01-2025,Unkown ID,Rahul Shah,West,West Bengal,Router,15,5400,0.5,40500,55839,15339,Offline,Unkown,Neha,Yes
+1435,15-01-2025,C249,Unkown ,East,Odisha,Laptop,2,5400,0,5000,0,15339,Online,Unkown,Neha,No
+1436,11-03-2025,C226,Priya Mehta,Unkown,Maharastra,Keyboard,2,1200,0.1,2160,1343,817,Online,CARD,Amit,Yes
+1437,21-04-2025,C135,Arjun Nair,North,Odisha,Mouse,2,5400,0.05,10260,5662,4598,Off Line,CARD,Amit ,Unkown Status
+1438,21-11-2025,C136,Priya  Mehta,Unkown,Unkown State,Desk,3,1200,0.5,1800,3877,2077,Online,CARD,Amit ,No
+1439,21-06-2025,C232,Rahul Shah,North,Maharashtra,Router,10,5400,0.5,27000,55609,28609,Offline,CASH,Amit ,Damaged
+1440,03-05-2025,Unkown ID,Rahul Shah,East,Tamil Nadu,Office Chair,0,1200,0.5,9999999,0,28609,Online,Unkown,Amit ,Damaged
+1441,03-03-2025,C193,Rahul Shah,West,Tamil Nadu,Laptop,0,5400,0,0,0,28609,Offline,CARD,Amit ,Unkown Status
+1442,29-08-2025,C213,Priya Mehta,North,Odisha,Monitor,2,650,0,1300,1036,264,Off Line,CARD,Amit ,Yes
+1443,29-10-2025,Unkown ID,Priya Mehta,Unkown,Delhi,USB Hub,2,1200,0.05,2280,2163,117,Off Line,CARD,Neha,Unkown Status
+1444,03-02-2025,C183,Rahul Shah,South,Maharastra,USB Hub,0,250,0.15,0,0,117,Offline,CASH,Neha,Yes
+1445,21-09-2025,C165,Priya  Mehta,South,Unkown State,Keyboard,0,250,0.15,0,0,117,Offline,CARD,Neha,Damaged
+1446,20-04-2025,Unkown ID,Arjun Nair,East,Unkown State,Office Chair,0,250,0.15,0,0,117,Offline,CARD,Ravi,Yes
+1447,20-05-2025,Unkown ID,Priya  Mehta,East,Karnataka,Keyboard,0,250,0,5000,0,117,Off Line,CARD,Amit,Unkown Status
+1448,25-02-2025,Unkown ID,Arjun Nair,Unkown,Karnataka,Router,0,1200,0,0,0,117,Unkown,UPI,Neha,No
+1449,25-02-2025,C166,Rahul Shah,West,Maharastra,Mouse,2,12500,0,25000,26615,1615,Online,CASH,Amit,Damaged
+1450,02-07-2025,C176,Rahul Shah,West,Karnataka,USB Hub,0,1200,0.1,0,0,1615,Online,UPI,Neha,Damaged
+1451,06-04-2025,Unkown ID,Priya Mehta,West,Tamil Nadu,Notebook Pack,0,650,0.5,0,0,1615,Offline,UPI,Neha,Unkown Status
+1452,01-09-2025,C241,Unkown ,Unkown,Unkown State,Keyboard,0,250,0,0,0,1615,Online,CARD,Amit,Yes
+1453,31-05-2025,C229,Priya Mehta,East,Tamil Nadu,Notebook Pack,0,1200,0.05,0,0,1615,Off Line,CARD,Neha,Unkown Status
+1454,10-10-2025,C182,Unkown ,South,Delhi,Notebook Pack,2,1200,0,5000,0,1615,Unkown,UPI,Neha,Unkown Status
+1455,19-03-2025,Unkown ID,Rahul Shah,Unkown,Delhi,Monitor,2,1200,0.1,2160,1293,867,Online,UPI,Ravi,Unkown Status
+1456,20-03-2025,C217,Rahul Shah,South,West Bengal,Tablet,12,1200,0.1,0,0,867,Unkown,Unkown,Unkown,Unkown Status
+1457,12-10-2025,Unkown ID,Arjun Nair,North,Delhi,Router,11,1200,0.05,5000,0,867,Online,UPI,Neha,Unkown Status
+1458,04-10-2025,C205,Rahul Shah,West,Tamil Nadu,Mouse,0,1200,0.15,5000,0,867,Online,CARD,Amit,Yes
+1459,04-10-2025,Unkown ID,Rahul Shah,North,Tamil Nadu,Notebook Pack,2,5400,0,10800,7501,3299,Offline,CASH,Ravi,Damaged
+1460,18-01-2025,C193,Priya  Mehta,Unkown,Unkown State,Keyboard,0,5400,0,5000,0,3299,Off Line,CARD,Neha,Yes
+1461,18-01-2025,Unkown ID,Rahul Shah,West,Unkown State,Laptop,15,5400,0,81000,45515,35485,Offline,CASH,Unkown,Damaged
+1462,16-08-2025,Unkown ID,Rahul Shah,South,Odisha,Desk,0,5400,0,999999,0,35485,Online,CARD,Neha,Damaged
+1463,08-12-2025,C153,Priya Mehta,North,Odisha,Laptop,0,1200,0,0,0,35485,Unkown,Unkown,Neha,Unkown Status
+1464,21-10-2025,Unkown ID,Unkown ,South,Maharastra,Laptop,2,12500,0.1,22500,15757,6743,Online,Unkown,Neha,Yes
+1465,09-11-2025,Unkown ID,Rahul Shah,Unkown,Odisha,Tablet,7,1200,0.1,7560,9542,1982,Online,CARD,Neha,No
+1466,02-02-2025,C238,Arjun Nair,North,Delhi,Laptop,0,5400,0.5,999999,0,1982,Online,CARD,Amit,No
+1467,16-05-2025,C243,Rahul Shah,Unkown,Maharastra,USB Hub,5,1200,0.15,5100,3103,1997,Online,CASH,Amit,No
+1468,29-12-2025,C235,Rahul Shah,South,Delhi,Notebook Pack,0,1200,0,0,0,1997,Off Line,Unkown,Neha,Yes
+1469,30-09-2025,Unkown ID,Priya  Mehta,East,West Bengal,Office Chair,0,250,0,0,0,1997,Unkown,UPI,Neha,Damaged
+1470,29-07-2025,Unkown ID,Unkown ,North,Maharashtra,Monitor,0,650,0.1,999999,0,1997,Offline,UPI,Amit,Unkown Status
+1471,31-01-2025,C210,Priya Mehta,Unkown,Delhi,Desk,4,650,0,0,0,1997,Offline,UPI,Amit ,No
+1472,11-06-2025,Unkown ID,Unkown ,West,Tamil Nadu,Tablet,2,650,0.5,650,742,92,Off Line,CARD,Amit ,No
+1473,04-05-2025,C194,Rahul Shah,West,Maharastra,Desk,2,650,0.05,5000,0,92,Off Line,CARD,Amit ,Unkown Status
+1474,04-11-2025,Unkown ID,Arjun Nair,North,Karnataka,Mouse,2,12500,0.15,21250,20141,1109,Offline,CARD,Neha,Unkown Status
+1475,19-06-2025,Unkown ID,Rahul Shah,East,Tamil Nadu,Desk,2,250,0.15,425,275,150,Off Line,CARD,Amit,Yes
+1476,26-06-2025,C205,Arjun Nair,West,Karnataka,Notebook Pack,0,650,0,0,0,150,Online,CARD,Amit,No
+1477,08-01-2025,C256,Unkown ,Unkown,Maharastra,Desk,6,650,0,5000,0,150,Offline,CARD,Amit,Yes
+1478,11-12-2025,C180,Arjun Nair,Unkown,Unkown State,Laptop,0,1200,0,0,0,150,Off Line,UPI,Neha,Damaged
+1479,03-09-2025,Unkown ID,Rahul Shah,East,Delhi,Notebook Pack,0,5400,0,0,0,150,Online,CARD,Amit,Damaged
+1480,18-10-2025,C142,Priya  Mehta,West,Maharashtra,Monitor,0,650,0.05,999999,0,150,Off Line,UPI,Ravi,Damaged
+1481,14-09-2025,C150,Arjun Nair,Unkown,Maharashtra,Mouse,2,650,0,1300,1060,240,Offline,CASH,Amit,Unkown Status
+1482,21-10-2025,C204,Unkown ,West,Delhi,Monitor,0,12500,0,0,0,240,Online,CARD,Amit,Yes
+1483,06-03-2025,C258,Rahul Shah,Unkown,Maharastra,Office Chair,0,1200,0.05,0,0,240,Off Line,CARD,Amit ,Unkown Status
+1484,27-08-2025,C115,Rahul Shah,North,Unkown State,Router,0,1200,0,5000,0,240,Offline,UPI,Amit,Yes
+1485,24-11-2025,C133,Unkown ,North,Maharashtra,Notebook Pack,0,5400,0,9999999,0,240,Online,CARD,Ravi,Yes
+1486,04-07-2025,C183,Rahul Shah,Unkown,West Bengal,USB Hub,8,5400,0.05,0,0,240,Off Line,CARD,Amit ,Yes
+1487,14-09-2025,C216,Rahul Shah,South,Tamil Nadu,USB Hub,0,5400,0.5,5000,0,240,Unkown,UPI,Unkown,No
+1488,21-10-2025,C176,Priya Mehta,East,Odisha,Monitor,2,1200,0.05,2280,1637,643,Off Line,CARD,Ravi,Damaged
+1489,06-08-2025,C235,Priya Mehta,South,Tamil Nadu,Keyboard,0,5400,0.5,0,0,643,Offline,CARD,Amit ,No
+1490,22-12-2025,C181,Rahul Shah,Unkown,Maharashtra,Laptop,11,12500,0.5,68750,161029,92279,Online,CASH,Neha,Damaged
+1491,24-06-2025,C201,Unkown ,Unkown,Tamil Nadu,Notebook Pack,15,1200,0,18000,11579,6421,Off Line,Unkown,Neha,Damaged
+1492,24-04-2025,Unkown ID,Unkown ,West,West Bengal,Router,0,1200,0,999999,0,6421,Online,Unkown,Amit ,Unkown Status
+1493,01-12-2025,C141,Arjun Nair,South,Delhi,Desk,8,250,0.05,1900,1615,285,Off Line,CARD,Ravi,Unkown Status
+1494,10-03-2025,C104,Rahul Shah,West,Odisha,Router,0,1200,0.1,0,0,285,Online,CARD,Neha,Yes
+1495,26-04-2025,Unkown ID,Priya Mehta,Unkown,Unkown State,USB Hub,10,1200,0.5,5000,0,285,Offline,CASH,Unkown,No
+1496,15-03-2025,C249,Rahul Shah,West,West Bengal,Tablet,2,1200,0.15,2040,2743,703,Online,CARD,Neha,Yes
+1497,02-04-2025,C224,Priya Mehta,East,Delhi,Office Chair,0,250,0,0,0,703,Off Line,CARD,Amit ,No
+1498,02-09-2025,C194,Unkown ,North,Maharashtra,Keyboard,0,12500,0.15,5000,0,703,Off Line,CASH,Amit ,No
+1499,15-05-2025,C230,Arjun Nair,West,West Bengal,USB Hub,14,1200,0,16800,15886,914,Offline,CARD,Neha,Damaged
+1500,05-01-2025,C153,Rahul Shah,South,West Bengal,Router,14,1200,0.15,14280,9211,5069,Off Line,CARD,Ravi,No
+1501,17-09-2025,C155,Rahul Shah,South,Unkown State,Tablet,2,650,0.05,1235,789,446,Off Line,UPI,Neha,Damaged
+1502,12-02-2025,C208,Priya  Mehta,West,Karnataka,Mouse,0,250,0,0,0,446,Unkown,CASH,Amit,No
+1503,06-03-2025,C238,Unkown ,Unkown,Unkown State,Tablet,0,250,0,0,0,446,Online,UPI,Neha,Unkown Status
+1504,12-10-2025,Unkown ID,Rahul Shah,West,Unkown State,Mouse,2,250,0.05,475,326,149,Unkown,CARD,Neha,No
+1505,09-02-2025,C167,Arjun Nair,North,Delhi,Monitor,0,650,0.5,0,0,149,Offline,CARD,Neha,Damaged
+1506,22-09-2025,C109,Priya Mehta,North,Maharashtra,Monitor,12,1200,0.1,12960,14580,1620,Off Line,CASH,Amit ,No
+1507,03-05-2025,Unkown ID,Rahul Shah,South,Maharastra,Desk,2,12500,0,25000,19900,5100,Online,CARD,Amit ,No
+1508,11-01-2025,Unkown ID,Rahul Shah,Unkown,Unkown State,Desk,15,1200,0,18000,12225,5775,Unkown,CARD,Amit ,Damaged
+1509,18-06-2025,Unkown ID,Priya  Mehta,South,Karnataka,Router,2,250,0,500,559,59,Unkown,Unkown,Ravi,Unkown Status
+1510,06-07-2025,C122,Unkown ,Unkown,Delhi,Monitor,0,250,0.1,0,0,59,Off Line,CARD,Unkown,Damaged
+1511,22-09-2025,C190,Unkown ,West,Unkown State,Office Chair,0,1200,0.05,9999999,0,59,Unkown,Unkown,Ravi,Yes
+1512,14-02-2025,Unkown ID,Priya  Mehta,East,Delhi,USB Hub,9,250,0.15,1912,1836,76,Unkown,CARD,Amit,Unkown Status
+1513,15-02-2025,C239,Priya  Mehta,West,Delhi,Router,2,1200,0,2400,1442,958,Online,UPI,Amit,No
+1514,13-11-2025,C126,Rahul Shah,South,Tamil Nadu,Tablet,0,5400,0,0,0,958,Offline,CARD,Amit,No
+1515,25-10-2025,Unkown ID,Unkown ,West,Odisha,Keyboard,0,5400,0.5,999999,0,958,Online,CARD,Amit ,Unkown Status
+1516,07-06-2025,C238,Priya Mehta,South,Unkown State,Tablet,2,250,0,500,345,155,Online,CASH,Amit,No
+1517,18-03-2025,C112,Rahul Shah,East,Unkown State,Mouse,0,250,0,999999,0,155,Online,CASH,Amit,Damaged
+1518,16-07-2025,C105,Arjun Nair,East,Maharashtra,Router,9,250,0.1,0,0,155,Offline,CASH,Amit ,No
+1519,06-11-2025,C175,Priya Mehta,South,Maharashtra,Office Chair,0,12500,0,0,0,155,Online,Unkown,Amit ,Damaged
+1520,03-07-2025,C137,Rahul Shah,East,West Bengal,Mouse,13,1200,0,15600,18037,2437,Online,CASH,Neha,Yes
+1521,03-07-2025,C119,Rahul Shah,West,Unkown State,Mouse,0,250,0,0,0,2437,Online,CARD,Amit ,Damaged
+1522,09-07-2025,C193,Arjun Nair,North,Maharashtra,Notebook Pack,11,5400,0,59400,37535,21865,Unkown,Unkown,Amit,Yes
+1523,17-04-2025,C181,Rahul Shah,West,Tamil Nadu,Keyboard,0,650,0.1,0,0,21865,Unkown,CARD,Ravi,No
+1524,13-04-2025,C223,Rahul Shah,West,Maharashtra,Desk,6,12500,0.05,71250,56331,14919,Online,CARD,Neha,Damaged
+1525,11-10-2025,C234,Unkown ,North,Karnataka,Keyboard,9,5400,0.15,41310,25766,15544,Offline,UPI,Unkown,Yes
+1526,15-09-2025,Unkown ID,Unkown ,West,Maharastra,Tablet,0,250,0.5,0,0,15544,Unkown,CASH,Neha,Unkown Status
+1527,13-12-2025,Unkown ID,Unkown ,North,Odisha,Notebook Pack,9,1200,0,10800,9118,1682,Online,CASH,Neha,Damaged
+1528,01-07-2025,Unkown ID,Rahul Shah,South,Delhi,Desk,0,650,0.5,0,0,1682,Online,CARD,Neha,Yes
+1529,26-08-2025,Unkown ID,Rahul Shah,West,Unkown State,Office Chair,2,650,0,999999,0,1682,Online,UPI,Unkown,No
+1530,02-02-2025,Unkown ID,Rahul Shah,South,Maharashtra,Mouse,0,250,0,5000,0,1682,Online,Unkown,Neha,Damaged
+1531,02-02-2025,Unkown ID,Arjun Nair,Unkown,West Bengal,USB Hub,2,650,0.15,1105,1179,74,Off Line,CASH,Neha,No
+1532,08-08-2025,Unkown ID,Rahul Shah,West,West Bengal,Laptop,14,650,0,9100,8676,424,Online,UPI,Amit,Yes
+1533,25-09-2025,C152,Rahul Shah,South,Karnataka,Laptop,0,650,0.05,0,0,424,Unkown,Unkown,Ravi,No
+1534,13-06-2025,C200,Unkown ,West,Maharashtra,Office Chair,0,250,0.1,0,0,424,Off Line,CARD,Amit,Yes
+1535,10-03-2025,C244,Rahul Shah,East,Maharashtra,Keyboard,4,12500,0,50000,40259,9741,Off Line,Unkown,Amit,Yes
+1536,01-09-2025,C121,Unkown ,West,Unkown State,Mouse,2,650,0.15,1105,1278,173,Off Line,CARD,Ravi,Damaged
+1537,23-07-2025,C228,Rahul Shah,Unkown,Karnataka,Router,8,250,0.05,1900,1473,427,Off Line,CARD,Neha,Damaged
+1538,30-05-2025,C238,Priya Mehta,West,Maharashtra,Mouse,8,12500,0,100000,58928,41072,Unkown,CARD,Amit,Yes
+1539,13-12-2025,C205,Rahul Shah,South,Delhi,Notebook Pack,2,650,0.15,1105,817,288,Off Line,UPI,Neha,Damaged
+1540,19-02-2025,C123,Rahul Shah,West,Tamil Nadu,Tablet,2,650,0.15,1105,782,323,Offline,CASH,Neha,Yes
+1541,04-06-2025,C227,Unkown ,East,Karnataka,Desk,2,1200,0,2400,2312,88,Online,CARD,Ravi,Unkown Status
+1542,28-05-2025,C142,Rahul Shah,North,Odisha,Keyboard,15,12500,0.05,178125,99261,78864,Unkown,CASH,Neha,Unkown Status
+1543,16-08-2025,C159,Rahul Shah,West,Maharashtra,USB Hub,2,1200,0.5,1200,2451,1251,Unkown,CARD,Neha,Damaged
+1544,27-12-2025,C116,Unkown ,West,West Bengal,Desk,13,12500,0.1,146250,89036,57214,Online,Unkown,Amit,Yes
+1545,24-03-2025,C180,Priya  Mehta,West,Odisha,Notebook Pack,0,650,0,0,0,57214,Online,CARD,Neha,Unkown Status
+1546,24-03-2025,Unkown ID,Arjun Nair,West,Unkown State,Keyboard,2,650,0,999999,0,57214,Unkown,UPI,Neha,Damaged
+1547,01-05-2025,C244,Priya Mehta,North,Odisha,Monitor,0,1200,0.5,0,0,57214,Online,CARD,Ravi,No
+1548,27-05-2025,C190,Priya Mehta,West,Maharastra,USB Hub,0,650,0.05,0,0,57214,Online,CARD,Unkown,Unkown Status
+1549,18-06-2025,C222,Unkown ,Unkown,Delhi,Notebook Pack,0,12500,0,0,0,57214,Offline,Unkown,Neha,Unkown Status
+1550,02-01-2025,C168,Rahul Shah,West,Delhi,Notebook Pack,2,12500,0,999999,0,57214,Unkown,CARD,Amit ,No
+1551,12-09-2025,Unkown ID,Priya  Mehta,West,Maharastra,Laptop,0,650,0,0,0,57214,Off Line,Unkown,Ravi,Yes
+1552,10-12-2025,Unkown ID,Rahul Shah,Unkown,Karnataka,Router,0,1200,0,999999,0,57214,Unkown,CARD,Neha,No
+1553,01-06-2025,Unkown ID,Unkown ,West,Delhi,Router,2,650,0,1300,921,379,Off Line,CARD,Ravi,Damaged
+1554,19-08-2025,C188,Rahul Shah,West,Delhi,Laptop,0,5400,0,0,0,379,Unkown,CARD,Unkown,Unkown Status
+1555,08-02-2025,C121,Priya Mehta,West,Odisha,Mouse,0,5400,0.15,5000,0,379,Online,CARD,Amit ,No
+1556,08-02-2025,Unkown ID,Priya  Mehta,North,West Bengal,Keyboard,0,12500,0.5,0,0,379,Off Line,CARD,Neha,Unkown Status
+1557,08-06-2025,C180,Priya  Mehta,West,Tamil Nadu,USB Hub,9,1200,0.5,5400,8190,2790,Online,UPI,Amit,Damaged
+1558,21-10-2025,Unkown ID,Unkown ,North,Unkown State,Router,0,650,0,0,0,2790,Offline,CARD,Unkown,Unkown Status
+1559,21-10-2025,Unkown ID,Arjun Nair,East,Delhi,Mouse,4,12500,0.1,45000,54414,9414,Offline,UPI,Neha,Unkown Status
+1560,12-03-2025,C126,Rahul Shah,Unkown,Unkown State,Mouse,0,250,0,0,0,9414,Online,CASH,Neha,Yes
+1561,26-12-2025,C111,Unkown ,West,Tamil Nadu,Router,2,650,0.15,1105,1084,21,Unkown,CARD,Amit,Unkown Status
+1562,21-09-2025,C251,Unkown ,West,West Bengal,Router,0,5400,0,999999,0,21,Offline,CARD,Neha,No
+1563,18-09-2025,C101,Rahul Shah,West,Maharastra,Monitor,0,5400,0.1,0,0,21,Online,Unkown,Neha,Unkown Status
+1564,25-12-2025,C228,Priya  Mehta,South,Maharastra,Notebook Pack,15,1200,0,18000,10819,7181,Off Line,Unkown,Ravi,Unkown Status
+1565,01-08-2025,Unkown ID,Priya Mehta,South,Tamil Nadu,Laptop,0,1200,0.1,0,0,7181,Off Line,CARD,Unkown,Damaged
+1566,12-06-2025,Unkown ID,Rahul Shah,North,West Bengal,Router,2,650,0,1300,1530,230,Unkown,CARD,Amit,No
+1567,05-08-2025,C258,Priya  Mehta,West,Karnataka,Keyboard,0,650,0,0,0,230,Online,CARD,Neha,Yes
+1568,14-02-2025,C173,Priya Mehta,West,Tamil Nadu,Monitor,0,250,0,0,0,230,Online,UPI,Amit,No
+1569,06-03-2025,Unkown ID,Arjun Nair,West,Karnataka,Monitor,0,250,0,0,0,230,Online,CARD,Neha,No
+1570,22-01-2025,C192,Unkown ,West,Tamil Nadu,USB Hub,0,250,0.15,5000,0,230,Off Line,Unkown,Amit,Yes
+1571,31-07-2025,Unkown ID,Rahul Shah,North,West Bengal,Mouse,2,650,0,1300,1118,182,Offline,UPI,Amit ,Damaged
+1572,27-12-2025,C227,Rahul Shah,South,Delhi,Laptop,0,5400,0,999999,0,182,Unkown,CARD,Neha,Yes
+1573,16-03-2025,C246,Priya Mehta,North,Delhi,Router,0,5400,0,0,0,182,Online,CASH,Amit,No
+1574,12-06-2025,Unkown ID,Unkown ,West,Delhi,Monitor,15,5400,0,5000,0,182,Offline,CARD,Neha,Yes
+1575,15-03-2025,C189,Unkown ,East,Maharashtra,Monitor,7,250,0,1750,1037,713,Online,CASH,Neha,Unkown Status
+1576,16-01-2025,C233,Priya  Mehta,North,Maharastra,Laptop,2,250,0.1,0,0,713,Online,UPI,Neha,No
+1577,27-02-2025,C238,Arjun Nair,South,Maharashtra,USB Hub,0,250,0.15,999999,0,713,Off Line,UPI,Neha,Damaged
+1578,04-08-2025,Unkown ID,Rahul Shah,Unkown,West Bengal,Office Chair,12,5400,0,64800,64685,115,Unkown,CARD,Amit,Yes
+1579,08-06-2025,C190,Rahul Shah,West,Odisha,USB Hub,14,12500,0.15,148750,190630,41880,Offline,CASH,Ravi,Yes
+1580,08-06-2025,Unkown ID,Rahul Shah,Unkown,Maharastra,Keyboard,0,650,0.1,0,0,41880,Off Line,Unkown,Amit ,No
+1581,19-10-2025,Unkown ID,Arjun Nair,Unkown,Unkown State,USB Hub,2,5400,0.05,10260,5438,4822,Offline,UPI,Amit ,Unkown Status
+1582,05-10-2025,Unkown ID,Unkown ,Unkown,Tamil Nadu,Notebook Pack,0,650,0,0,0,4822,Off Line,CARD,Ravi,No
+1583,09-03-2025,C217,Rahul Shah,West,Tamil Nadu,Office Chair,0,5400,0.1,0,0,4822,Online,CARD,Neha,Yes
+1584,16-06-2025,C239,Rahul Shah,West,Unkown State,Office Chair,6,5400,0.1,999999,0,4822,Online,CARD,Ravi,Yes
+1585,14-06-2025,Unkown ID,Rahul Shah,East,Karnataka,Laptop,2,250,0.15,425,473,48,Off Line,CARD,Amit ,No
+1586,02-07-2025,C232,Rahul Shah,West,Maharastra,Mouse,2,1200,0.05,2280,1433,847,Online,CASH,Neha,Unkown Status
+1587,02-07-2025,Unkown ID,Priya  Mehta,South,Delhi,Mouse,0,250,0,999999,0,847,Offline,UPI,Amit ,Yes
+1588,22-10-2025,C249,Arjun Nair,North,Delhi,Desk,0,5400,0.05,5000,0,847,Offline,CASH,Unkown,Damaged
+1589,23-09-2025,C150,Arjun Nair,West,Maharashtra,Laptop,2,250,0.05,475,466,9,Online,UPI,Unkown,Unkown Status
+1590,24-10-2025,Unkown ID,Arjun Nair,West,West Bengal,Tablet,2,250,0,5000,0,9,Online,CARD,Ravi,Yes
+1591,17-10-2025,Unkown ID,Rahul Shah,West,Delhi,Router,0,1200,0.1,0,0,9,Unkown,Unkown,Ravi,Damaged
+1592,28-04-2025,C191,Unkown ,South,Karnataka,Mouse,0,1200,0.1,0,0,9,Online,CASH,Unkown,Yes
+1593,08-03-2025,C170,Unkown ,West,Tamil Nadu,Notebook Pack,0,250,0,0,0,9,Online,Unkown,Amit ,No
+1594,10-01-2025,Unkown ID,Rahul Shah,North,Karnataka,Notebook Pack,8,5400,0,43200,36304,6896,Online,Unkown,Unkown,Unkown Status
+1595,25-11-2025,C136,Priya Mehta,West,Odisha,Router,2,5400,0,5000,0,6896,Unkown,CARD,Unkown,No
+1596,18-10-2025,C187,Rahul Shah,West,Odisha,Office Chair,5,1200,0.05,5700,5210,490,Online,CASH,Amit ,Damaged
+1597,30-08-2025,C139,Rahul Shah,West,Tamil Nadu,Office Chair,0,5400,0,0,0,490,Offline,CARD,Amit ,Unkown Status
+1598,30-08-2025,C186,Priya Mehta,North,Karnataka,Desk,0,12500,0.1,0,0,490,Online,CARD,Unkown,No
+1599,28-12-2025,Unkown ID,Unkown ,South,Maharashtra,Mouse,8,5400,0,43200,26575,16625,Off Line,CASH,Amit,Yes
+1600,20-04-2025,C260,Arjun Nair,South,Maharastra,USB Hub,2,1200,0,2400,2171,229,Offline,Unkown,Neha,Unkown Status
+1601,29-03-2025,Unkown ID,Rahul Shah,West,Delhi,Laptop,1,5400,0.1,4860,4528,332,Offline,CASH,Amit ,No
+1602,26-11-2025,C220,Priya Mehta,West,West Bengal,Keyboard,0,650,0,0,0,332,Online,CARD,Ravi,No
+1603,03-06-2025,C182,Arjun Nair,West,Delhi,USB Hub,0,12500,0.1,0,0,332,Off Line,CASH,Neha,Yes
+1604,07-08-2025,Unkown ID,Arjun Nair,West,Tamil Nadu,Desk,4,5400,0.1,19440,17182,2258,Online,CASH,Unkown,Yes
+1605,30-09-2025,C199,Arjun Nair,Unkown,West Bengal,Tablet,13,650,0,8450,6044,2406,Online,CASH,Amit,Unkown Status
+1606,16-02-2025,C245,Unkown ,Unkown,Tamil Nadu,Office Chair,0,5400,0.5,0,0,2406,Off Line,CASH,Neha,Yes
+1607,11-12-2025,C101,Priya  Mehta,West,Maharastra,Tablet,2,12500,0.5,12500,13091,591,Unkown,UPI,Neha,Yes
+1608,27-07-2025,Unkown ID,Rahul Shah,West,Karnataka,Notebook Pack,0,12500,0,0,0,591,Off Line,CARD,Ravi,Damaged
+1609,08-08-2025,C224,Priya  Mehta,North,Karnataka,Laptop,0,1200,0.5,0,0,591,Off Line,CARD,Unkown,No
+1610,03-01-2025,C105,Rahul Shah,West,Karnataka,Office Chair,2,5400,0.15,9180,10894,1714,Online,Unkown,Ravi,Unkown Status
+1611,20-03-2025,C152,Rahul Shah,North,Delhi,Notebook Pack,0,650,0,0,0,1714,Offline,CASH,Amit,Damaged
+1612,03-12-2025,Unkown ID,Priya  Mehta,Unkown,West Bengal,Keyboard,1,1200,0,1200,821,379,Online,CARD,Unkown,Damaged
+1613,27-10-2025,C241,Rahul Shah,East,Maharastra,Laptop,2,12500,0.5,12500,19628,7128,Off Line,CARD,Neha,No
+1614,23-03-2025,C205,Unkown ,North,West Bengal,Mouse,5,250,0,1250,718,532,Unkown,CARD,Amit ,Unkown Status
+1615,08-02-2025,C190,Rahul Shah,North,West Bengal,Laptop,2,250,0,0,0,532,Online,CASH,Amit,Unkown Status
+1616,20-12-2025,Unkown ID,Unkown ,West,Maharashtra,Monitor,0,250,0,0,0,532,Online,CARD,Neha,Damaged
+1617,04-06-2025,C244,Rahul Shah,South,Odisha,Tablet,2,650,0,1300,973,327,Offline,Unkown,Neha,Unkown Status
+1618,02-11-2025,C129,Unkown ,West,Karnataka,Mouse,0,5400,0.05,5000,0,327,Online,CASH,Amit ,Damaged
+1619,24-08-2025,C260,Unkown ,Unkown,Karnataka,Router,2,12500,0,25000,15802,9198,Off Line,Unkown,Unkown,Unkown Status
+1620,26-05-2025,C112,Priya Mehta,East,Odisha,Monitor,9,250,0.5,1125,1281,156,Off Line,Unkown,Amit ,No
+1621,14-06-2025,C237,Rahul Shah,East,Delhi,Router,8,12500,0,9999999,90846,9154,Offline,Unkown,Neha,No
+1622,12-10-2025,C129,Priya Mehta,Unkown,Maharashtra,Monitor,0,12500,0,999999,0,9154,Online,UPI,Neha,Yes
+1623,11-06-2025,Unkown ID,Rahul Shah,West,West Bengal,Tablet,2,250,0.05,475,546,71,Off Line,CARD,Amit,Unkown Status
+1624,13-02-2025,C135,Rahul Shah,West,Delhi,Tablet,2,250,0.5,250,421,171,Online,CASH,Amit,No
+1625,21-09-2025,Unkown ID,Priya Mehta,South,Karnataka,Monitor,7,250,0.1,999999,0,171,Offline,Unkown,Neha,Unkown Status
+1626,19-11-2025,C119,Priya Mehta,Unkown,Maharashtra,Router,2,250,0.1,450,445,5,Off Line,CARD,Unkown,No
+1627,02-12-2025,C105,Priya Mehta,West,Maharastra,Monitor,5,1200,0,6000,4601,1399,Off Line,UPI,Neha,Damaged
+1628,12-10-2025,Unkown ID,Rahul Shah,West,West Bengal,Laptop,0,1200,0,999999,0,1399,Online,CASH,Neha,No
+1629,14-11-2025,Unkown ID,Rahul Shah,Unkown,Unkown State,Laptop,2,12500,0.1,22500,27964,5464,Unkown,UPI,Neha,No
+1630,01-03-2025,C138,Unkown ,West,Maharastra,Monitor,8,12500,0.5,0,0,5464,Online,UPI,Unkown,Unkown Status
+1631,22-08-2025,C128,Priya  Mehta,West,West Bengal,Desk,2,12500,0,0,0,5464,Off Line,CARD,Ravi,No
+1632,22-08-2025,Unkown ID,Rahul Shah,West,Odisha,Laptop,2,12500,0,0,0,5464,Offline,CARD,Unkown,Damaged
+1633,05-04-2025,Unkown ID,Rahul Shah,West,Karnataka,Tablet,7,12500,0.15,74375,75922,1547,Online,UPI,Neha,Damaged
+1634,26-07-2025,C215,Unkown ,West,Maharastra,Tablet,0,650,0,0,0,1547,Unkown,CARD,Neha,Unkown Status
+1635,18-10-2025,C111,Priya  Mehta,West,Unkown State,Keyboard,7,12500,0,87500,90235,2735,Offline,CARD,Neha,Unkown Status
+1636,21-06-2025,Unkown ID,Priya  Mehta,South,Odisha,Monitor,2,1200,0.05,2280,1444,836,Online,CASH,Unkown,Damaged
+1637,19-02-2025,Unkown ID,Unkown ,Unkown,Unkown State,Office Chair,0,1200,0,5000,0,836,Unkown,UPI,Neha,Yes
+1638,17-05-2025,C180,Priya  Mehta,West,Odisha,Router,0,12500,0.1,0,0,836,Offline,CARD,Amit ,Yes
+1639,01-04-2025,C174,Rahul Shah,Unkown,Unkown State,Office Chair,11,5400,0.1,53460,68826,15366,Unkown,CASH,Neha,No
+1640,13-07-2025,C188,Rahul Shah,North,Maharastra,Tablet,2,1200,0,2400,1752,648,Online,UPI,Ravi,No
+1641,28-07-2025,Unkown ID,Priya  Mehta,East,Unkown State,Monitor,12,250,0.1,2700,3477,777,Online,Unkown,Amit,Yes
+1642,27-04-2025,C155,Rahul Shah,North,Maharashtra,USB Hub,0,1200,0.15,999999,0,777,Unkown,CARD,Ravi,Unkown Status
+1643,31-12-2025,Unkown ID,Priya  Mehta,West,Tamil Nadu,Laptop,0,12500,0,0,0,777,Unkown,UPI,Ravi,No
+1644,21-03-2025,C116,Rahul Shah,Unkown,Karnataka,Office Chair,0,12500,0.1,0,0,777,Online,CARD,Unkown,Unkown Status
+1645,15-06-2025,C244,Arjun Nair,North,Maharastra,Tablet,2,12500,0,25000,20432,4568,Online,Unkown,Unkown,No
+1646,06-04-2025,C168,Priya  Mehta,East,Unkown State,Office Chair,7,1200,0,8400,5235,3165,Off Line,Unkown,Amit ,Damaged
+1647,27-04-2025,Unkown ID,Arjun Nair,Unkown,Maharashtra,Router,2,250,0,500,555,55,Unkown,CASH,Neha,Damaged
+1648,29-05-2025,Unkown ID,Priya  Mehta,West,Delhi,Laptop,7,650,0,4550,3171,1379,Off Line,CASH,Amit,No
+1649,16-11-2025,Unkown ID,Rahul Shah,East,Maharastra,Monitor,0,250,0.05,0,0,1379,Off Line,Unkown,Unkown,No
+1650,28-11-2025,C132,Unkown ,West,Odisha,Router,0,1200,0,0,0,1379,Online,CARD,Neha,Damaged
+1651,27-08-2025,C193,Priya  Mehta,South,Tamil Nadu,Office Chair,2,1200,0,2400,1816,584,Unkown,Unkown,Ravi,Yes
+1652,22-12-2025,C157,Unkown ,Unkown,Tamil Nadu,Keyboard,2,1200,0.15,2040,2482,442,Online,CASH,Neha,No
+1653,23-12-2025,Unkown ID,Rahul Shah,East,Maharastra,USB Hub,0,250,0.1,0,0,442,Unkown,Unkown,Amit ,Yes
+1654,23-12-2025,Unkown ID,Rahul Shah,Unkown,Odisha,Router,2,5400,0,9999999,6269,4531,Off Line,Unkown,Unkown,Damaged
+1655,22-02-2025,C100,Unkown ,South,Unkown State,Laptop,0,5400,0,999999,0,4531,Off Line,UPI,Ravi,No
+1656,30-04-2025,C107,Arjun Nair,South,Unkown State,Keyboard,13,5400,0.5,0,0,4531,Unkown,CARD,Amit ,No
+1657,01-10-2025,Unkown ID,Unkown ,East,Tamil Nadu,Monitor,2,5400,0,0,0,4531,Off Line,Unkown,Neha,Damaged
+1658,01-10-2025,C209,Rahul Shah,West,Tamil Nadu,Keyboard,15,12500,0.1,168750,188630,19880,Online,CASH,Neha,Damaged
+1659,18-02-2025,Unkown ID,Rahul Shah,East,Delhi,Keyboard,0,1200,0,0,0,19880,Online,CARD,Amit ,Yes
+1660,26-02-2025,C151,Priya Mehta,West,Delhi,USB Hub,11,650,0,7150,4912,2238,Online,Unkown,Unkown,Yes
+1661,01-02-2025,C216,Unkown ,South,Maharastra,Laptop,0,12500,0.15,0,0,2238,Offline,Unkown,Amit ,Unkown Status
+1662,19-04-2025,Unkown ID,Priya  Mehta,North,West Bengal,Router,2,1200,0.15,2040,2832,792,Online,CASH,Neha,Damaged
+1663,19-04-2025,C234,Rahul Shah,Unkown,Karnataka,Router,2,650,0,1300,1493,193,Online,CASH,Neha,Damaged
+1664,27-11-2025,Unkown ID,Arjun Nair,North,Tamil Nadu,Notebook Pack,2,650,0.1,1170,1527,357,Online,CASH,Neha,No
+1665,21-06-2025,Unkown ID,Arjun Nair,West,Maharastra,USB Hub,2,650,0.05,1235,937,298,Online,Unkown,Amit ,Damaged
+1666,11-01-2025,C117,Rahul Shah,West,Maharashtra,Desk,2,1200,0,2400,1516,884,Unkown,Unkown,Ravi,Yes
+1667,22-09-2025,C192,Arjun Nair,West,Unkown State,USB Hub,2,5400,0,10800,9694,1106,Online,CARD,Unkown,Yes
+1668,30-04-2025,Unkown ID,Rahul Shah,Unkown,Maharashtra,Laptop,0,12500,0.5,0,0,1106,Unkown,CARD,Unkown,Yes
+1669,01-04-2025,Unkown ID,Rahul Shah,South,Odisha,USB Hub,0,5400,0.5,0,0,1106,Offline,CARD,Neha,No
+1670,08-10-2025,C228,Unkown ,North,Karnataka,Mouse,2,250,0,500,555,55,Offline,CASH,Amit ,No
+1671,25-09-2025,C188,Rahul Shah,North,Tamil Nadu,Desk,0,1200,0.05,0,0,55,Online,Unkown,Neha,Yes
+1672,30-12-2025,Unkown ID,Unkown ,East,Karnataka,Keyboard,1,1200,0.1,1080,1242,162,Off Line,CASH,Amit ,Yes
+1673,30-07-2025,C170,Priya Mehta,West,Karnataka,Keyboard,0,650,0,0,0,162,Off Line,Unkown,Amit,Yes
+1674,29-03-2025,C143,Unkown ,East,Maharashtra,Mouse,0,1200,0,999999,0,162,Unkown,UPI,Ravi,Unkown Status
+1675,03-03-2025,C210,Priya Mehta,West,Tamil Nadu,Tablet,0,650,0,5000,0,162,Offline,UPI,Neha,Damaged
+1676,12-08-2025,C185,Arjun Nair,West,Karnataka,Router,5,650,0,0,0,162,Offline,CASH,Ravi,Yes
+1677,21-09-2025,C236,Priya Mehta,East,West Bengal,Router,3,5400,0,16200,11890,4310,Off Line,CARD,Unkown,Unkown Status
+1678,12-02-2025,Unkown ID,Unkown ,North,Maharastra,Monitor,0,5400,0.5,0,0,4310,Unkown,UPI,Neha,No
+1679,14-07-2025,C137,Rahul Shah,East,West Bengal,Tablet,2,250,0,500,556,56,Unkown,Unkown,Ravi,Unkown Status
+1680,24-03-2025,C254,Priya  Mehta,East,Odisha,Tablet,12,12500,0.15,127500,139836,12336,Offline,CARD,Amit,Damaged
+1681,08-04-2025,Unkown ID,Priya Mehta,South,Karnataka,Office Chair,2,650,0.05,1235,1191,44,Unkown,CARD,Neha,No
+1682,29-06-2025,Unkown ID,Arjun Nair,South,Odisha,Router,2,1200,0.15,2040,1705,335,Online,CASH,Unkown,No
+1683,28-09-2025,C186,Priya  Mehta,West,Maharashtra,Monitor,0,1200,0,0,0,335,Off Line,Unkown,Amit,Unkown Status
+1684,28-08-2025,C123,Rahul Shah,West,Unkown State,Notebook Pack,0,1200,0.05,0,0,335,Online,CARD,Neha,Yes
+1685,24-08-2025,Unkown ID,Arjun Nair,East,West Bengal,Keyboard,0,12500,0,0,0,335,Online,CARD,Amit ,Unkown Status
+1686,03-10-2025,Unkown ID,Arjun Nair,West,West Bengal,USB Hub,2,12500,0.1,22500,24327,1827,Online,CASH,Unkown,No
+1687,22-02-2025,C149,Unkown ,South,Karnataka,Tablet,9,250,0.5,1125,1994,869,Unkown,Unkown,Amit,Yes
+1688,13-11-2025,Unkown ID,Priya Mehta,East,Unkown State,Keyboard,14,5400,0.1,68040,42172,25868,Online,CARD,Unkown,Yes
+1689,06-10-2025,Unkown ID,Rahul Shah,East,Delhi,Notebook Pack,0,1200,0.5,0,0,25868,Unkown,Unkown,Ravi,Unkown Status
+1690,15-12-2025,Unkown ID,Rahul Shah,West,Maharastra,Tablet,0,12500,0,0,0,25868,Offline,CASH,Ravi,Unkown Status
+1691,10-07-2025,Unkown ID,Rahul Shah,Unkown,Maharastra,Laptop,2,12500,0.5,5000,0,25868,Online,UPI,Neha,Yes
+1692,05-02-2025,C172,Rahul Shah,East,Delhi,USB Hub,15,650,0,9750,8305,1445,Online,Unkown,Ravi,No
+1693,16-05-2025,Unkown ID,Priya Mehta,South,Maharashtra,Desk,0,650,0.15,0,0,1445,Online,Unkown,Ravi,Yes
+1694,13-06-2025,C121,Arjun Nair,West,West Bengal,USB Hub,0,650,0,0,0,1445,Unkown,Unkown,Amit ,No
+1695,22-04-2025,C257,Rahul Shah,Unkown,Maharashtra,Router,5,5400,0.5,13500,25026,11526,Off Line,Unkown,Neha,Unkown Status
+1696,09-05-2025,C241,Rahul Shah,Unkown,Unkown State,Tablet,2,5400,0,5000,0,11526,Online,CASH,Amit ,Yes
+1697,05-06-2025,C145,Unkown ,East,Tamil Nadu,Office Chair,0,5400,0.5,0,0,11526,Offline,CARD,Amit,No
+1698,20-01-2025,C228,Rahul Shah,West,Maharashtra,Keyboard,0,5400,0.5,999999,0,11526,Online,CARD,Neha,Damaged
+1699,19-06-2025,C157,Unkown ,West,Maharastra,Mouse,0,5400,0.05,0,0,11526,Unkown,CARD,Amit,Damaged
+1700,22-07-2025,C223,Rahul Shah,North,Maharastra,Router,3,650,0.5,975,1862,887,Unkown,CARD,Unkown,No
+1701,01-05-2025,C206,Priya Mehta,South,Delhi,Keyboard,0,650,0,999999,0,887,Offline,UPI,Unkown,No
+1702,27-02-2025,C198,Priya Mehta,South,Maharastra,Tablet,2,12500,0,25000,21266,3734,Online,CASH,Ravi,Unkown Status
+1703,26-03-2025,C155,Rahul Shah,West,West Bengal,Notebook Pack,0,12500,0.05,0,0,3734,Off Line,Unkown,Neha,Yes
+1704,26-06-2025,C191,Arjun Nair,North,Tamil Nadu,Mouse,7,650,0,4550,3928,622,Online,UPI,Neha,Damaged
+1705,06-01-2025,Unkown ID,Priya  Mehta,West,Unkown State,Router,0,12500,0.1,0,0,622,Off Line,CASH,Amit ,Yes
+1706,21-12-2025,C181,Priya Mehta,East,Delhi,USB Hub,15,12500,0,999999,0,622,Off Line,Unkown,Ravi,Unkown Status
+1707,05-04-2025,C236,Arjun Nair,Unkown,West Bengal,Desk,2,5400,0.5,5400,12859,7459,Offline,CASH,Unkown,No
+1708,18-12-2025,Unkown ID,Unkown ,West,Karnataka,Laptop,0,5400,0,0,0,7459,Online,Unkown,Amit,Damaged
+1709,28-09-2025,Unkown ID,Rahul Shah,West,Odisha,Office Chair,0,650,0.05,5000,0,7459,Unkown,CARD,Amit ,Unkown Status
+1710,27-02-2025,Unkown ID,Rahul Shah,West,Maharastra,Keyboard,0,5400,0,0,0,7459,Offline,Unkown,Neha,Damaged
+1711,26-10-2025,C154,Arjun Nair,West,Tamil Nadu,Router,4,12500,0.15,42500,48962,6462,Off Line,Unkown,Neha,Damaged
+1712,11-08-2025,Unkown ID,Priya Mehta,North,Tamil Nadu,Desk,0,12500,0.5,0,0,6462,Online,CARD,Neha,Unkown Status
+1713,14-02-2025,Unkown ID,Unkown ,Unkown,Delhi,Desk,0,12500,0.05,5000,0,6462,Off Line,CASH,Amit ,Unkown Status
+1714,25-08-2025,Unkown ID,Unkown ,Unkown,Unkown State,Monitor,2,5400,0.1,9720,9684,36,Unkown,CARD,Amit ,Damaged
+1715,04-08-2025,C154,Priya  Mehta,Unkown,Maharastra,Tablet,2,1200,0.05,2280,1608,672,Online,CASH,Amit ,Damaged
+1716,09-03-2025,C260,Arjun Nair,South,Maharastra,Router,6,1200,0,7200,4038,3162,Unkown,CARD,Amit ,Unkown Status
+1717,14-02-2025,C177,Priya Mehta,East,Karnataka,Keyboard,12,5400,0,64800,53444,11356,Offline,CASH,Ravi,Unkown Status
+1718,07-04-2025,Unkown ID,Priya  Mehta,Unkown,Maharashtra,USB Hub,2,1200,0.5,1200,2595,1395,Online,UPI,Amit ,Yes
+1719,31-01-2025,Unkown ID,Arjun Nair,Unkown,Maharashtra,Keyboard,2,5400,0.15,9180,10415,1235,Off Line,Unkown,Neha,No
+1720,28-09-2025,C104,Arjun Nair,North,West Bengal,Keyboard,0,5400,0.5,0,0,1235,Off Line,CASH,Unkown,No
+1721,10-07-2025,C206,Rahul Shah,West,Tamil Nadu,Router,0,250,0.05,0,0,1235,Unkown,CARD,Ravi,Unkown Status
+1722,21-09-2025,C182,Rahul Shah,East,Delhi,USB Hub,15,650,0.15,8288,8659,371,Off Line,UPI,Ravi,Yes
+1723,20-10-2025,C216,Unkown ,South,West Bengal,Notebook Pack,7,12500,0,87500,67472,20028,Off Line,CASH,Unkown,No
+1724,08-06-2025,C214,Rahul Shah,West,Delhi,Mouse,2,12500,0,0,0,20028,Offline,CASH,Amit ,Damaged
+1725,15-02-2025,C181,Priya  Mehta,Unkown,Tamil Nadu,Keyboard,0,12500,0,0,0,20028,Online,UPI,Neha,No
+1726,25-03-2025,C258,Priya  Mehta,Unkown,West Bengal,Desk,2,250,0.05,475,392,83,Offline,CASH,Neha,Damaged
+1727,27-01-2025,C219,Priya Mehta,North,West Bengal,Tablet,2,650,0,1300,980,320,Online,CASH,Ravi,Yes
+1728,24-10-2025,C162,Priya  Mehta,East,Karnataka,Keyboard,0,650,0.15,0,0,320,Online,CARD,Ravi,Yes
+1729,09-05-2025,C175,Priya  Mehta,West,Delhi,Laptop,0,12500,0.05,5000,0,320,Offline,UPI,Ravi,Unkown Status
+1730,19-12-2025,Unkown ID,Priya Mehta,Unkown,Tamil Nadu,Router,2,12500,0.1,22500,28324,5824,Off Line,CARD,Amit,Unkown Status
+1731,24-08-2025,C195,Priya  Mehta,North,Unkown State,Laptop,2,5400,0.05,10260,8386,1874,Online,CARD,Amit ,Yes
+1732,10-05-2025,C187,Priya Mehta,South,Tamil Nadu,Desk,2,250,0.1,450,554,104,Offline,CARD,Amit,Yes
+1733,14-09-2025,Unkown ID,Arjun Nair,Unkown,Karnataka,Monitor,2,5400,0.5,5400,10614,5214,Off Line,UPI,Amit,Yes
+1734,08-06-2025,C235,Arjun Nair,South,Delhi,Mouse,0,5400,0.05,999999,0,5214,Online,CASH,Amit,Unkown Status
+1735,09-02-2025,Unkown ID,Arjun Nair,North,Unkown State,Notebook Pack,0,250,0,0,0,5214,Online,CARD,Neha,Damaged
+1736,23-11-2025,C128,Unkown ,West,Tamil Nadu,Mouse,0,650,0,0,0,5214,Off Line,CARD,Ravi,Damaged
+1737,21-11-2025,C132,Rahul Shah,Unkown,Maharashtra,Laptop,0,12500,0,0,0,5214,Online,UPI,Amit,No
+1738,17-07-2025,Unkown ID,Priya Mehta,South,West Bengal,Keyboard,0,12500,0.05,999999,0,5214,Online,UPI,Amit ,Unkown Status
+1739,01-08-2025,Unkown ID,Rahul Shah,West,Maharastra,Monitor,2,250,0.05,475,452,23,Online,Unkown,Amit,Yes
+1740,19-03-2025,C230,Rahul Shah,Unkown,Tamil Nadu,Mouse,2,650,0,1300,1343,43,Unkown,CARD,Ravi,Yes
+1741,16-07-2025,Unkown ID,Priya Mehta,West,Odisha,Monitor,12,650,0,5000,0,43,Unkown,CASH,Ravi,Unkown Status
+1742,05-06-2025,C161,Priya Mehta,East,Maharastra,Mouse,0,1200,0.05,0,0,43,Offline,Unkown,Amit,Yes
+1743,12-05-2025,C241,Rahul Shah,North,West Bengal,Laptop,2,5400,0,10800,6917,3883,Online,CASH,Neha,No
+1744,01-08-2025,Unkown ID,Rahul Shah,North,Tamil Nadu,Notebook Pack,0,1200,0.1,999999,0,3883,Offline,Unkown,Neha,Unkown Status
+1745,30-09-2025,C235,Priya Mehta,South,Delhi,Mouse,5,1200,0.5,3000,4178,1178,Online,CASH,Ravi,Damaged
+1746,30-09-2025,C200,Unkown ,West,Maharashtra,Laptop,0,1200,0.5,5000,0,1178,Offline,Unkown,Amit ,No
+1747,02-12-2025,C133,Priya Mehta,Unkown,Unkown State,Laptop,0,650,0.1,999999,0,1178,Online,UPI,Ravi,Yes
+1748,12-03-2025,C208,Priya  Mehta,West,Tamil Nadu,Keyboard,0,12500,0,5000,0,1178,Online,CARD,Amit ,No
+1749,17-10-2025,C166,Arjun Nair,North,Unkown State,Desk,5,650,0.5,1625,3135,1510,Online,UPI,Neha,No
+1750,15-12-2025,C172,Rahul Shah,Unkown,Tamil Nadu,Tablet,4,12500,0,50000,44646,5354,Unkown,Unkown,Ravi,Unkown Status
+1751,21-11-2025,C149,Rahul Shah,North,Unkown State,Monitor,0,650,0,0,0,5354,Unkown,CASH,Unkown,No
+1752,20-01-2025,Unkown ID,Rahul Shah,West,Karnataka,Notebook Pack,0,250,0.05,0,0,5354,Offline,UPI,Neha,Yes
+1753,18-06-2025,Unkown ID,Arjun Nair,Unkown,Unkown State,Router,11,250,0.15,0,0,5354,Offline,CARD,Neha,Unkown Status
+1754,26-05-2025,Unkown ID,Unkown ,Unkown,Unkown State,Notebook Pack,0,12500,0.5,0,0,5354,Unkown,CASH,Amit ,Yes
+1755,05-05-2025,C200,Arjun Nair,East,Unkown State,Notebook Pack,0,12500,0,999999,0,5354,Offline,UPI,Amit ,Damaged
+1756,27-09-2025,Unkown ID,Unkown ,West,West Bengal,Router,0,650,0,0,0,5354,Offline,UPI,Unkown,No
+1757,31-03-2025,C162,Arjun Nair,Unkown,Tamil Nadu,Desk,0,250,0.1,999999,0,5354,Online,CARD,Amit,Unkown Status
+1758,13-11-2025,Unkown ID,Rahul Shah,West,Maharashtra,USB Hub,2,650,0,1300,980,320,Offline,CARD,Unkown,Unkown Status
+1759,16-06-2025,Unkown ID,Rahul Shah,Unkown,West Bengal,Mouse,0,650,0.5,999999,0,320,Online,CARD,Neha,No
+1760,16-01-2025,C243,Priya Mehta,West,Unkown State,Office Chair,0,5400,0.5,999999,0,320,Online,UPI,Unkown,No
+1761,30-04-2025,C219,Unkown ,West,Maharastra,Office Chair,0,250,0,5000,0,320,Unkown,Unkown,Unkown,Unkown Status
+1762,22-11-2025,C247,Priya  Mehta,East,Karnataka,Laptop,0,5400,0.1,0,0,320,Off Line,CARD,Amit ,Yes
+1763,08-05-2025,Unkown ID,Unkown ,East,Maharastra,Desk,0,1200,0.5,0,0,320,Off Line,Unkown,Amit ,No
+1764,15-12-2025,Unkown ID,Arjun Nair,North,Unkown State,Notebook Pack,2,650,0.5,650,1154,504,Online,CARD,Amit,Damaged
+1765,14-06-2025,Unkown ID,Unkown ,East,Delhi,Desk,0,650,0,5000,0,504,Off Line,UPI,Amit ,No
+1766,06-10-2025,C182,Arjun Nair,West,Maharastra,Laptop,0,12500,0,999999,0,504,Off Line,CASH,Neha,Yes
+1767,01-10-2025,C154,Priya  Mehta,West,Karnataka,Mouse,0,12500,0.05,0,0,504,Off Line,UPI,Neha,Damaged
+1768,03-05-2025,Unkown ID,Unkown ,North,Tamil Nadu,Tablet,0,250,0.15,0,0,504,Online,CASH,Amit ,Yes
+1769,11-11-2025,C202,Unkown ,Unkown,Odisha,Notebook Pack,0,650,0.05,0,0,504,Online,Unkown,Amit,Yes
+1770,19-09-2025,C227,Priya  Mehta,Unkown,West Bengal,Desk,0,1200,0,0,0,504,Online,CASH,Ravi,No
+1771,03-11-2025,C164,Rahul Shah,East,Karnataka,Keyboard,0,650,0,5000,0,504,Off Line,CASH,Amit ,No
+1772,02-12-2025,C157,Rahul Shah,East,Maharashtra,Mouse,0,650,0,999999,0,504,Offline,CARD,Ravi,Yes
+1773,30-06-2025,C223,Unkown ,Unkown,Odisha,Mouse,0,12500,0.15,5000,0,504,Unkown,CARD,Neha,Unkown Status
+1774,04-06-2025,C197,Unkown ,East,Maharastra,Router,0,5400,0.15,999999,0,504,Online,CARD,Amit,Unkown Status
+1775,14-03-2025,Unkown ID,Priya Mehta,West,Maharastra,USB Hub,7,5400,0.15,32130,26065,6065,Offline,Unkown,Amit ,Yes
+1776,10-12-2025,C215,Priya Mehta,South,West Bengal,Monitor,0,250,0.15,5000,0,6065,Off Line,CARD,Neha,Yes
+1777,15-03-2025,C109,Rahul Shah,North,West Bengal,USB Hub,0,1200,0,9999999,0,6065,Online,CARD,Amit,No
+1778,13-01-2025,C208,Priya  Mehta,West,West Bengal,Router,2,1200,0.15,5000,0,6065,Unkown,CARD,Unkown,Yes
+1779,09-05-2025,C162,Rahul Shah,Unkown,Odisha,Mouse,0,250,0.1,0,0,6065,Online,CARD,Ravi,Yes
+1780,03-02-2025,Unkown ID,Rahul Shah,South,Odisha,Mouse,2,12500,0.15,21250,22891,1641,Online,UPI,Amit,Damaged
+1781,04-11-2025,Unkown ID,Priya Mehta,North,Tamil Nadu,Monitor,0,250,0.5,5000,0,1641,Unkown,UPI,Ravi,Yes
+1782,10-02-2025,C137,Rahul Shah,North,Unkown State,Keyboard,2,12500,0.05,23750,18399,5351,Off Line,CARD,Ravi,No
+1783,06-02-2025,C217,Priya Mehta,West,Odisha,Desk,0,12500,0.1,0,0,5351,Online,CASH,Unkown,Yes
+1784,29-06-2025,C142,Priya Mehta,West,Karnataka,Tablet,9,12500,0,5000,0,5351,Offline,CASH,Neha,No
+1785,29-08-2025,C187,Priya  Mehta,South,Karnataka,Keyboard,0,12500,0,0,0,5351,Offline,UPI,Amit,Yes
+1786,01-08-2025,Unkown ID,Priya Mehta,Unkown,West Bengal,Office Chair,2,1200,0.05,2280,1209,1071,Online,UPI,Amit ,No
+1787,07-04-2025,C242,Priya  Mehta,East,Maharastra,Notebook Pack,2,5400,0.1,9720,12306,2586,Unkown,Unkown,Ravi,Damaged
+1788,07-11-2025,Unkown ID,Rahul Shah,West,Unkown State,Desk,14,650,0.05,8645,5574,3071,Online,UPI,Amit,Unkown Status
+1789,23-02-2025,C132,Priya Mehta,North,West Bengal,Monitor,2,1200,0,2400,2697,297,Offline,CARD,Neha,Damaged
+1790,07-09-2025,Unkown ID,Priya  Mehta,Unkown,Tamil Nadu,Desk,1,1200,0,0,0,297,Offline,Unkown,Amit ,No
+1791,17-09-2025,Unkown ID,Unkown ,West,Karnataka,USB Hub,2,12500,0,25000,22727,2273,Online,CARD,Neha,Yes
+1792,24-01-2025,C182,Unkown ,Unkown,Karnataka,Tablet,2,1200,0,2400,2699,299,Off Line,CARD,Unkown,Unkown Status
+1793,07-12-2025,C230,Rahul Shah,North,Maharashtra,Tablet,0,250,0,0,0,299,Offline,CARD,Neha,Unkown Status
+1794,13-11-2025,C167,Priya Mehta,East,Odisha,Tablet,1,650,0.05,618,551,67,Online,CARD,Amit,Yes
+1795,11-12-2025,C180,Arjun Nair,North,Odisha,Tablet,2,5400,0.05,10260,12547,2287,Online,CARD,Amit ,No
+1796,22-07-2025,C180,Unkown ,Unkown,Karnataka,USB Hub,2,5400,0,999999,0,2287,Offline,CARD,Neha,Yes
+1797,08-10-2025,C204,Arjun Nair,Unkown,Delhi,Laptop,0,12500,0,999999,0,2287,Unkown,CARD,Amit ,Unkown Status
+1798,29-03-2025,C139,Unkown ,West,Maharastra,USB Hub,3,5400,0,16200,14256,1944,Online,CARD,Neha,Yes
+1799,27-06-2025,C232,Arjun Nair,West,Delhi,Mouse,0,12500,0,0,0,1944,Online,CARD,Amit ,Unkown Status
+1800,28-04-2025,C234,Priya  Mehta,West,Maharastra,Office Chair,2,650,0.5,650,1222,572,Online,UPI,Unkown,Yes
+1801,26-12-2025,C219,Arjun Nair,West,Delhi,Office Chair,0,5400,0,0,0,572,Online,Unkown,Neha,No
+1802,23-11-2025,Unkown ID,Rahul Shah,West,West Bengal,Router,2,250,0.1,450,407,43,Offline,CARD,Neha,Unkown Status
+1803,13-10-2025,C156,Priya Mehta,East,Odisha,Router,0,1200,0.1,0,0,43,Online,UPI,Ravi,No
+1804,10-09-2025,Unkown ID,Arjun Nair,West,Unkown State,Monitor,0,1200,0,0,0,43,Online,UPI,Amit ,No
+1805,04-11-2025,Unkown ID,Rahul Shah,East,Maharastra,Tablet,0,5400,0.05,0,0,43,Unkown,CARD,Neha,Damaged
+1806,10-02-2025,C180,Rahul Shah,North,Tamil Nadu,Monitor,15,650,0.05,9262,11232,1969,Offline,CASH,Unkown,Unkown Status
+1807,24-11-2025,C106,Priya Mehta,East,Delhi,Tablet,2,5400,0.1,9720,5463,4257,Unkown,Unkown,Neha,No
+1808,03-12-2025,C258,Arjun Nair,East,Karnataka,Notebook Pack,2,5400,0.1,9999999,0,4257,Offline,CASH,Neha,No
+1809,08-01-2025,C128,Priya Mehta,North,Maharastra,Notebook Pack,0,1200,0.5,0,0,4257,Online,Unkown,Unkown,Unkown Status
+1810,27-10-2025,C208,Rahul Shah,West,Unkown State,Desk,13,650,0.1,7605,5671,1934,Off Line,CASH,Amit,Unkown Status
+1811,09-05-2025,C228,Rahul Shah,East,Maharashtra,Tablet,0,5400,0.5,999999,0,1934,Unkown,Unkown,Neha,Yes
+1812,06-08-2025,C257,Unkown ,West,Unkown State,Monitor,0,650,0.5,0,0,1934,Unkown,Unkown,Ravi,Yes
+1813,17-08-2025,Unkown ID,Arjun Nair,South,Karnataka,Mouse,0,12500,0.1,0,0,1934,Off Line,UPI,Unkown,Unkown Status
+1814,27-02-2025,C156,Arjun Nair,West,Tamil Nadu,Notebook Pack,0,5400,0,0,0,1934,Unkown,CARD,Amit,No
+1815,23-06-2025,C157,Unkown ,Unkown,Tamil Nadu,Router,0,650,0.1,0,0,1934,Offline,CASH,Neha,No
+1816,07-01-2025,Unkown ID,Priya  Mehta,Unkown,Tamil Nadu,Router,2,5400,0,10800,11286,486,Unkown,CARD,Neha,Unkown Status
+1817,09-11-2025,Unkown ID,Arjun Nair,South,Karnataka,Monitor,0,250,0.1,0,0,486,Offline,CARD,Neha,Yes
+1818,07-12-2025,C222,Rahul Shah,North,Karnataka,Router,11,650,0.05,6792,8284,1491,Online,CARD,Ravi,Damaged
+1819,02-03-2025,C118,Rahul Shah,West,Odisha,Desk,0,650,0.15,5000,0,1491,Off Line,Unkown,Unkown,Yes
+1820,08-06-2025,C164,Rahul Shah,West,Karnataka,Office Chair,5,250,0.5,625,1163,538,Offline,CARD,Ravi,Yes
+1821,08-01-2025,C216,Rahul Shah,North,Delhi,Mouse,0,250,0.05,999999,0,538,Online,CARD,Unkown,Unkown Status
+1822,13-07-2025,C142,Rahul Shah,North,West Bengal,Keyboard,0,250,0.1,5000,0,538,Online,CARD,Amit ,No
+1823,04-08-2025,C165,Priya  Mehta,South,Maharastra,Monitor,0,5400,0,0,0,538,Off Line,CASH,Neha,No
+1824,01-03-2025,C209,Rahul Shah,West,Odisha,Desk,5,250,0.05,1188,1366,178,Online,CARD,Neha,Yes
+1825,01-03-2025,C139,Priya  Mehta,Unkown,Odisha,Desk,0,650,0,0,0,178,Online,Unkown,Unkown,Damaged
+1826,07-08-2025,Unkown ID,Unkown ,West,Maharashtra,Laptop,0,650,0,5000,0,178,Offline,Unkown,Amit,Damaged
+1827,23-10-2025,C201,Rahul Shah,West,Odisha,Tablet,2,12500,0.05,23750,15023,8727,Online,Unkown,Neha,No
+1828,28-06-2025,Unkown ID,Rahul Shah,East,Karnataka,Notebook Pack,2,650,0,1300,1301,1,Offline,Unkown,Amit ,No
+1829,21-01-2025,C238,Unkown ,East,Karnataka,Monitor,0,650,0,0,0,1,Offline,Unkown,Amit ,Yes
+1830,21-01-2025,Unkown ID,Priya  Mehta,Unkown,Karnataka,Desk,0,5400,0.1,0,0,1,Off Line,CARD,Ravi,Damaged
+1831,11-06-2025,C130,Priya Mehta,West,Karnataka,Monitor,9,250,0,2250,1689,561,Online,Unkown,Ravi,Yes
+1832,19-03-2025,C223,Unkown ,South,Tamil Nadu,Notebook Pack,0,250,0.5,999999,0,561,Unkown,CARD,Neha,Yes
+1833,17-06-2025,C159,Unkown ,Unkown,Maharashtra,Office Chair,0,1200,0.15,0,0,561,Off Line,CARD,Ravi,Yes
+1834,31-10-2025,C105,Arjun Nair,South,Unkown State,Monitor,2,12500,0.05,23750,20680,3070,Off Line,CASH,Unkown,Damaged
+1835,31-10-2025,Unkown ID,Rahul Shah,South,Maharastra,Laptop,0,12500,0,0,0,3070,Offline,CARD,Unkown,Yes
+1836,01-10-2025,Unkown ID,Unkown ,South,Karnataka,Monitor,2,12500,0,0,0,3070,Unkown,UPI,Neha,Unkown Status
+1837,02-10-2025,Unkown ID,Priya Mehta,North,Maharastra,USB Hub,2,1200,0,2400,1786,614,Online,Unkown,Neha,Damaged
+1838,31-12-2025,C109,Arjun Nair,Unkown,West Bengal,Office Chair,0,650,0.1,0,0,614,Off Line,CASH,Ravi,Damaged
+1839,26-10-2025,C165,Rahul Shah,West,Karnataka,Desk,11,250,0.5,1375,2234,859,Online,Unkown,Amit ,No
+1840,26-10-2025,C128,Priya Mehta,Unkown,Delhi,Tablet,2,250,0.05,0,0,859,Unkown,Unkown,Amit,No
+1841,24-09-2025,Unkown ID,Unkown ,Unkown,Odisha,Notebook Pack,6,250,0.05,1425,1646,221,Online,CARD,Amit ,Yes
+1842,27-06-2025,C229,Priya  Mehta,South,Maharashtra,Mouse,0,650,0,0,0,221,Online,UPI,Neha,No
+1843,25-02-2025,C115,Rahul Shah,Unkown,Maharashtra,USB Hub,12,250,0.15,2550,1816,734,Off Line,UPI,Ravi,Yes
+1844,08-11-2025,C110,Arjun Nair,North,Maharashtra,Keyboard,0,250,0.5,999999,0,734,Offline,UPI,Neha,No
+1845,16-12-2025,Unkown ID,Unkown ,West,West Bengal,Notebook Pack,0,250,0,5000,0,734,Off Line,CARD,Neha,Damaged
+1846,02-02-2025,Unkown ID,Priya Mehta,North,Maharashtra,Laptop,0,12500,0,999999,0,734,Unkown,CASH,Amit,No
+1847,16-04-2025,C231,Unkown ,Unkown,Karnataka,USB Hub,0,12500,0.05,0,0,734,Off Line,UPI,Amit,Damaged
+1848,26-08-2025,C241,Rahul Shah,Unkown,Maharastra,Desk,2,1200,0,2400,2579,179,Online,CARD,Neha,Damaged
+1849,16-07-2025,C213,Arjun Nair,Unkown,West Bengal,Monitor,0,12500,0,0,0,179,Off Line,UPI,Amit ,Yes
+1850,02-08-2025,C114,Priya Mehta,West,Unkown State,Tablet,2,250,0.5,250,307,57,Online,Unkown,Neha,Damaged
+1851,16-11-2025,Unkown ID,Unkown ,West,West Bengal,Keyboard,0,1200,0,999999,0,57,Online,CARD,Amit ,Damaged
+1852,08-03-2025,C133,Rahul Shah,East,Unkown State,Desk,2,1200,0.15,0,0,57,Offline,CARD,Amit ,Unkown Status
+1853,11-01-2025,C209,Rahul Shah,East,Unkown State,Office Chair,0,12500,0.05,5000,0,57,Off Line,UPI,Unkown,Yes
+1854,20-01-2025,Unkown ID,Arjun Nair,West,Unkown State,Keyboard,0,1200,0.5,0,0,57,Online,Unkown,Neha,Unkown Status
+1855,10-10-2025,Unkown ID,Unkown ,South,Karnataka,Laptop,0,1200,0.5,0,0,57,Online,CARD,Neha,Yes
+1856,13-01-2025,C216,Rahul Shah,Unkown,Maharashtra,Desk,0,1200,0,999999,0,57,Off Line,CASH,Amit,Yes
+1857,24-01-2025,C222,Rahul Shah,North,Karnataka,Keyboard,0,5400,0.5,0,0,57,Offline,UPI,Neha,No
+1858,28-11-2025,Unkown ID,Rahul Shah,North,Maharashtra,Mouse,2,1200,0,2400,1245,1155,Online,CARD,Amit ,Yes
+1859,03-02-2025,Unkown ID,Unkown ,North,West Bengal,Laptop,0,250,0,5000,0,1155,Off Line,Unkown,Unkown,No
+1860,12-03-2025,Unkown ID,Priya  Mehta,West,Maharashtra,Mouse,0,5400,0,0,0,1155,Online,CARD,Amit,Unkown Status
+1861,08-04-2025,Unkown ID,Priya  Mehta,South,Odisha,Tablet,0,5400,0.15,5000,0,1155,Offline,UPI,Amit ,Unkown Status
+1862,03-04-2025,C173,Unkown ,West,Odisha,Office Chair,2,5400,0.5,999999,0,1155,Off Line,Unkown,Ravi,Yes
+1863,19-10-2025,C112,Priya Mehta,North,Maharastra,Monitor,2,1200,0.1,2160,1328,832,Unkown,UPI,Neha,Yes
+1864,07-11-2025,C159,Priya Mehta,South,Karnataka,Mouse,2,1200,0.05,2280,2042,238,Online,CASH,Ravi,Unkown Status
+1865,17-11-2025,Unkown ID,Arjun Nair,South,Karnataka,Office Chair,15,5400,0,81000,63197,17803,Online,UPI,Amit ,Yes
+1866,26-01-2025,C175,Priya  Mehta,Unkown,Maharashtra,Laptop,0,250,0.15,0,0,17803,Online,CARD,Unkown,Damaged
+1867,19-04-2025,Unkown ID,Priya  Mehta,West,Tamil Nadu,Laptop,0,250,0.1,0,0,17803,Online,CARD,Unkown,No
+1868,01-09-2025,Unkown ID,Arjun Nair,West,West Bengal,Office Chair,12,250,0,0,0,17803,Offline,CARD,Amit,No
+1869,03-12-2025,C196,Priya Mehta,West,Delhi,Laptop,0,12500,0.5,0,0,17803,Online,CARD,Amit ,Damaged
+1870,10-12-2025,Unkown ID,Arjun Nair,South,Odisha,Monitor,0,12500,0,0,0,17803,Unkown,CASH,Neha,No
+1871,11-12-2025,C203,Rahul Shah,West,Tamil Nadu,Tablet,2,12500,0,25000,21256,3744,Off Line,UPI,Neha,No
+1872,01-11-2025,Unkown ID,Priya  Mehta,Unkown,Delhi,Office Chair,14,250,0.15,2975,2309,666,Offline,CARD,Ravi,Damaged
+1873,28-11-2025,Unkown ID,Unkown ,West,Maharastra,Router,0,1200,0,0,0,666,Offline,CASH,Ravi,Unkown Status
+1874,08-04-2025,Unkown ID,Rahul Shah,West,Maharashtra,Mouse,0,650,0,0,0,666,Off Line,CARD,Ravi,Yes
+1875,01-02-2025,Unkown ID,Priya Mehta,South,Karnataka,Desk,2,1200,0.5,1200,2004,804,Offline,CARD,Neha,Yes
+1876,11-11-2025,Unkown ID,Priya Mehta,Unkown,Karnataka,Desk,0,12500,0,0,0,804,Off Line,UPI,Amit ,Yes
+1877,03-06-2025,C139,Priya Mehta,Unkown,Maharashtra,Keyboard,0,5400,0,0,0,804,Offline,CASH,Amit ,Yes
+1878,17-12-2025,Unkown ID,Rahul Shah,South,Maharastra,Desk,2,650,0.1,1170,1529,359,Online,UPI,Neha,Yes
+1879,08-10-2025,Unkown ID,Rahul Shah,West,Tamil Nadu,USB Hub,2,650,0.1,1170,980,190,Off Line,UPI,Ravi,Yes
+1880,19-05-2025,Unkown ID,Arjun Nair,East,Odisha,Keyboard,0,1200,0,0,0,190,Online,CASH,Amit ,No
+1881,19-05-2025,Unkown ID,Rahul Shah,West,Maharastra,USB Hub,0,1200,0.1,0,0,190,Online,CARD,Neha,Damaged
+1882,17-07-2025,C249,Unkown ,East,Tamil Nadu,Router,0,5400,0.5,5000,0,190,Unkown,Unkown,Neha,Yes
+1883,18-01-2025,C194,Arjun Nair,South,Maharashtra,Mouse,12,250,0.5,1500,2395,895,Online,CARD,Ravi,Damaged
+1884,19-03-2025,C211,Unkown ,North,Tamil Nadu,Notebook Pack,4,250,0,1000,901,99,Online,CASH,Neha,No
+1885,24-08-2025,Unkown ID,Priya  Mehta,West,Tamil Nadu,USB Hub,2,1200,0.1,2160,2558,398,Unkown,CASH,Amit ,No
+1886,15-06-2025,C237,Rahul Shah,Unkown,Karnataka,Laptop,0,1200,0.5,999999,0,398,Online,UPI,Amit,No
+1887,08-12-2025,C145,Priya  Mehta,West,Odisha,Mouse,0,5400,0,0,0,398,Unkown,CARD,Ravi,Unkown Status
+1888,14-03-2025,C217,Rahul Shah,West,Delhi,Office Chair,0,1200,0.5,999999,0,398,Off Line,CARD,Neha,Unkown Status
+1889,06-04-2025,C172,Arjun Nair,North,Tamil Nadu,Monitor,6,1200,0,0,0,398,Online,CASH,Unkown,No
+1890,27-08-2025,C192,Unkown ,North,West Bengal,Mouse,0,5400,0.15,0,0,398,Off Line,CARD,Unkown,Damaged
+1891,15-07-2025,Unkown ID,Rahul Shah,West,Tamil Nadu,Desk,2,12500,0.5,12500,16794,4294,Online,Unkown,Amit ,Unkown Status
+1892,25-07-2025,C127,Priya Mehta,North,Karnataka,Laptop,1,12500,0.1,5000,0,4294,Offline,UPI,Ravi,Yes
+1893,12-10-2025,Unkown ID,Priya Mehta,East,Karnataka,Office Chair,5,250,0,1250,688,562,Offline,Unkown,Neha,Damaged
+1894,18-06-2025,C204,Rahul Shah,South,West Bengal,USB Hub,0,1200,0,0,0,562,Off Line,UPI,Amit ,Unkown Status
+1895,02-08-2025,C241,Unkown ,South,Delhi,Router,2,12500,0,25000,25339,339,Offline,CASH,Amit ,No
+1896,06-07-2025,C148,Rahul Shah,West,Unkown State,Laptop,0,12500,0.15,0,0,339,Online,Unkown,Amit ,Damaged
+1897,09-06-2025,Unkown ID,Unkown ,South,Tamil Nadu,Monitor,0,5400,0.15,0,0,339,Online,CASH,Neha,No
+1898,29-08-2025,C210,Arjun Nair,South,Tamil Nadu,Desk,0,250,0,5000,0,339,Unkown,CARD,Amit ,Unkown Status
+1899,19-08-2025,C181,Unkown ,North,Odisha,Office Chair,2,650,0.15,1105,1201,96,Online,CASH,Amit,Unkown Status
+1900,11-08-2025,C160,Rahul Shah,North,Odisha,Monitor,0,5400,0.5,0,0,96,Online,CARD,Ravi,Unkown Status
+1901,08-06-2025,C234,Priya Mehta,West,Delhi,Laptop,0,650,0,0,0,96,Unkown,Unkown,Ravi,No
+1902,14-11-2025,Unkown ID,Rahul Shah,South,Tamil Nadu,Mouse,8,650,0.05,4940,4503,437,Offline,UPI,Neha,Unkown Status
+1903,16-08-2025,C205,Priya  Mehta,North,Maharastra,Laptop,10,650,0.05,0,0,437,Off Line,CASH,Neha,Damaged
+1904,13-02-2025,C157,Priya  Mehta,West,Unkown State,Monitor,0,650,0.05,0,0,437,Off Line,CARD,Neha,Unkown Status
+1905,10-02-2025,C219,Rahul Shah,South,Maharastra,Desk,0,5400,0.5,0,0,437,Off Line,UPI,Amit ,Yes
+1906,11-02-2025,Unkown ID,Rahul Shah,Unkown,Tamil Nadu,Tablet,0,5400,0.1,999999,0,437,Online,CARD,Amit,No
+1907,10-02-2025,C125,Rahul Shah,East,Maharastra,Laptop,2,250,0.1,450,377,73,Online,CASH,Unkown,No
+1908,17-07-2025,C237,Rahul Shah,South,West Bengal,Notebook Pack,2,12500,0.15,21250,13124,8126,Online,CARD,Amit,No
+1909,16-03-2025,C112,Rahul Shah,East,Karnataka,Mouse,2,5400,0.15,9180,11063,1883,Online,Unkown,Ravi,Yes
+1910,21-07-2025,C130,Rahul Shah,North,Delhi,Tablet,2,12500,0.05,23750,20502,3248,Online,Unkown,Neha,Damaged
+1911,26-07-2025,C246,Unkown ,West,Maharashtra,USB Hub,0,250,0.1,999999,0,3248,Offline,CARD,Amit ,No
+1912,24-08-2025,Unkown ID,Priya  Mehta,North,Maharastra,Notebook Pack,2,250,0,500,575,75,Off Line,CARD,Neha,Unkown Status
+1913,18-12-2025,Unkown ID,Rahul Shah,North,Tamil Nadu,Keyboard,1,1200,0.1,1080,900,180,Unkown,CARD,Neha,Damaged
+1914,02-05-2025,C243,Arjun Nair,Unkown,West Bengal,Office Chair,0,250,0.05,5000,0,180,Off Line,UPI,Neha,No
+1915,02-05-2025,Unkown ID,Priya Mehta,West,Delhi,Notebook Pack,15,250,0.1,0,0,180,Online,CARD,Neha,Damaged
+1916,23-07-2025,C181,Rahul Shah,West,Odisha,USB Hub,0,250,0.5,0,0,180,Off Line,Unkown,Neha,No
+1917,25-08-2025,Unkown ID,Rahul Shah,North,Odisha,Mouse,0,5400,0,999999,0,180,Unkown,Unkown,Amit,Yes
+1918,24-07-2025,C153,Priya  Mehta,East,Odisha,Monitor,0,5400,0.5,5000,0,180,Offline,CASH,Neha,Yes
+1919,07-04-2025,Unkown ID,Rahul Shah,West,Delhi,Laptop,0,5400,0,0,0,180,Online,CASH,Neha,Unkown Status
+1920,01-05-2025,Unkown ID,Priya  Mehta,East,Odisha,Router,0,250,0.15,5000,0,180,Offline,Unkown,Amit,Yes
+1921,29-09-2025,Unkown ID,Priya Mehta,Unkown,Tamil Nadu,Mouse,2,12500,0.05,23750,14614,9136,Unkown,Unkown,Unkown,Unkown Status
+1922,07-03-2025,C213,Priya  Mehta,North,West Bengal,Desk,0,5400,0.15,999999,0,9136,Unkown,CARD,Neha,No
+1923,02-12-2025,C188,Arjun Nair,East,Karnataka,USB Hub,0,650,0.15,0,0,9136,Online,UPI,Amit ,Damaged
+1924,11-05-2025,Unkown ID,Unkown ,East,West Bengal,Monitor,0,5400,0,0,0,9136,Offline,Unkown,Ravi,Yes
+1925,12-12-2025,C230,Priya Mehta,West,Unkown State,Office Chair,0,12500,0,0,0,9136,Off Line,CARD,Neha,Yes
+1926,05-06-2025,C155,Rahul Shah,West,Maharashtra,Desk,0,1200,0.1,999999,0,9136,Off Line,CARD,Neha,Unkown Status
+1927,17-05-2025,Unkown ID,Rahul Shah,West,Odisha,Desk,2,5400,0.15,9180,11604,2424,Online,CARD,Neha,Damaged
+1928,12-09-2025,C145,Priya Mehta,West,Unkown State,Notebook Pack,0,12500,0.1,0,0,2424,Online,CASH,Unkown,Yes
+1929,16-03-2025,C186,Priya  Mehta,South,Unkown State,Laptop,5,12500,0.5,31250,41009,9759,Online,CARD,Neha,No
+1930,02-08-2025,C215,Rahul Shah,West,Karnataka,Keyboard,2,1200,0.05,2280,2191,89,Off Line,Unkown,Amit ,Damaged
+1931,06-07-2025,C132,Arjun Nair,West,West Bengal,Office Chair,2,250,0.1,450,456,6,Off Line,Unkown,Amit ,Unkown Status
+1932,12-09-2025,C123,Priya  Mehta,West,Maharashtra,Router,0,1200,0.15,0,0,6,Off Line,CARD,Ravi,Damaged
+1933,17-08-2025,Unkown ID,Arjun Nair,South,Odisha,USB Hub,2,650,0,1300,1010,290,Off Line,Unkown,Amit,Damaged
+1934,01-03-2025,C237,Rahul Shah,Unkown,Odisha,Laptop,0,5400,0.1,999999,0,290,Unkown,CARD,Unkown,No
+1935,07-08-2025,C227,Arjun Nair,West,Maharashtra,Mouse,2,5400,0,10800,10668,132,Off Line,CASH,Neha,Unkown Status
+1936,10-10-2025,Unkown ID,Unkown ,West,West Bengal,Notebook Pack,0,5400,0.5,0,0,132,Unkown,UPI,Neha,Unkown Status
+1937,30-03-2025,Unkown ID,Arjun Nair,East,Tamil Nadu,Notebook Pack,12,250,0.5,1500,3297,1797,Offline,CASH,Neha,Damaged
+1938,07-10-2025,C209,Priya  Mehta,South,Odisha,Monitor,1,650,0.5,325,731,406,Online,CASH,Neha,Unkown Status
+1939,27-07-2025,Unkown ID,Rahul Shah,East,Tamil Nadu,Tablet,9,250,0.05,2138,2068,69,Unkown,Unkown,Amit,Yes
+1940,19-11-2025,C151,Arjun Nair,East,Maharastra,Notebook Pack,0,650,0,0,0,69,Unkown,CASH,Unkown,Damaged
+1941,13-05-2025,C234,Arjun Nair,West,West Bengal,Router,0,5400,0.1,0,0,69,Online,Unkown,Neha,Damaged
+1942,03-01-2025,C185,Priya Mehta,North,Unkown State,Laptop,12,650,0.15,6630,5831,799,Online,CARD,Amit ,No
+1943,25-05-2025,C121,Unkown ,West,Tamil Nadu,Router,8,650,0.05,4940,4218,722,Online,CARD,Unkown,Damaged
+1944,30-09-2025,C196,Arjun Nair,North,Delhi,Office Chair,12,1200,0,14400,14539,139,Online,Unkown,Amit ,Damaged
+1945,19-02-2025,C250,Priya Mehta,North,Tamil Nadu,Office Chair,5,5400,0,27000,31753,4753,Offline,CARD,Unkown,Yes
+1946,04-04-2025,C100,Rahul Shah,North,Maharastra,Monitor,0,5400,0.1,0,0,4753,Offline,CARD,Amit ,Damaged
+1947,05-01-2025,C246,Priya Mehta,South,Odisha,Tablet,0,1200,0.5,0,0,4753,Offline,CARD,Neha,Unkown Status
+1948,06-11-2025,C137,Arjun Nair,Unkown,Odisha,Keyboard,15,250,0,3750,3092,658,Offline,UPI,Neha,No
+1949,17-03-2025,C248,Rahul Shah,Unkown,West Bengal,Keyboard,0,1200,0,0,0,658,Online,CARD,Ravi,Damaged
+1950,16-10-2025,Unkown ID,Arjun Nair,West,Odisha,Notebook Pack,0,5400,0,0,0,658,Online,CARD,Neha,Unkown Status
+1951,11-08-2025,C112,Rahul Shah,East,Maharastra,USB Hub,7,250,0,9999999,1688,62,Offline,CARD,Amit ,Unkown Status
+1952,04-10-2025,Unkown ID,Priya Mehta,Unkown,Maharashtra,Router,0,250,0,999999,0,62,Offline,CARD,Amit ,Unkown Status
+1953,01-06-2025,C158,Unkown ,West,Maharashtra,Mouse,0,650,0,0,0,62,Unkown,UPI,Neha,Yes
+1954,08-10-2025,Unkown ID,Priya Mehta,West,Karnataka,Mouse,8,1200,0,9600,9876,276,Unkown,CARD,Amit ,No
+1955,21-08-2025,C157,Unkown ,Unkown,Odisha,Laptop,0,1200,0.5,0,0,276,Online,CARD,Neha,No
+1956,15-04-2025,Unkown ID,Priya  Mehta,South,West Bengal,Keyboard,2,650,0.05,1235,1492,257,Online,UPI,Neha,Damaged
+1957,25-06-2025,C168,Rahul Shah,West,Maharastra,Tablet,0,12500,0.1,0,0,257,Offline,Unkown,Neha,Unkown Status
+1958,30-12-2025,Unkown ID,Arjun Nair,North,Odisha,Desk,11,1200,0.15,11220,10931,289,Online,Unkown,Unkown,No
+1959,11-05-2025,C256,Rahul Shah,West,Delhi,Keyboard,0,5400,0.05,0,0,289,Online,CARD,Unkown,Damaged
+1960,20-10-2025,C150,Priya Mehta,North,Delhi,Tablet,10,650,0.5,3250,7218,3968,Offline,CARD,Amit,Unkown Status
+1961,18-06-2025,Unkown ID,Unkown ,East,Tamil Nadu,Laptop,2,12500,0.1,22500,17218,5282,Offline,UPI,Unkown,No
+1962,31-03-2025,Unkown ID,Arjun Nair,Unkown,Odisha,Notebook Pack,0,5400,0.15,0,0,5282,Online,CARD,Amit ,No
+1963,20-10-2025,Unkown ID,Priya  Mehta,West,Odisha,USB Hub,0,5400,0,999999,0,5282,Online,CASH,Amit,No
+1964,18-01-2025,C170,Unkown ,West,Tamil Nadu,Mouse,9,5400,0.15,0,0,5282,Offline,UPI,Unkown,Yes
+1965,26-04-2025,C248,Priya Mehta,Unkown,Karnataka,Mouse,0,5400,0.5,5000,0,5282,Off Line,CARD,Amit,Damaged
+1966,09-09-2025,C212,Priya Mehta,East,Tamil Nadu,Router,7,1200,0.05,7980,5067,2913,Offline,Unkown,Amit,Unkown Status
+1967,16-04-2025,Unkown ID,Priya  Mehta,Unkown,Odisha,Router,4,1200,0,0,0,2913,Online,CARD,Amit ,Yes
+1968,30-04-2025,Unkown ID,Priya Mehta,West,Maharastra,USB Hub,11,1200,0.1,11880,11671,209,Offline,CARD,Ravi,No
+1969,14-08-2025,C156,Arjun Nair,West,Tamil Nadu,Monitor,0,5400,0.15,999999,0,209,Offline,CARD,Amit,No
+1970,10-03-2025,C107,Priya  Mehta,West,Tamil Nadu,Tablet,9,1200,0.15,9180,5827,3353,Offline,Unkown,Amit ,Unkown Status
+1971,01-07-2025,Unkown ID,Priya  Mehta,Unkown,Delhi,Notebook Pack,0,1200,0,0,0,3353,Online,CARD,Amit ,Damaged
+1972,06-10-2025,C146,Rahul Shah,East,Maharastra,Office Chair,2,650,0.05,1235,758,477,Offline,UPI,Neha,Damaged
+1973,14-09-2025,Unkown ID,Arjun Nair,South,West Bengal,Notebook Pack,5,1200,0.15,5100,4306,794,Online,UPI,Amit,Damaged
+1974,15-02-2025,C239,Priya Mehta,Unkown,Tamil Nadu,Monitor,2,5400,0.05,10260,5597,4663,Unkown,CARD,Unkown,Damaged
+1975,07-07-2025,Unkown ID,Priya  Mehta,West,Karnataka,Laptop,2,1200,0.5,1200,1639,439,Off Line,UPI,Neha,Unkown Status
+1976,04-04-2025,Unkown ID,Priya Mehta,East,Unkown State,Office Chair,0,250,0.05,0,0,439,Online,CASH,Neha,Yes
+1977,15-11-2025,Unkown ID,Rahul Shah,South,Tamil Nadu,Mouse,0,1200,0,0,0,439,Unkown,UPI,Ravi,Yes
+1978,20-08-2025,C158,Rahul Shah,South,Tamil Nadu,Office Chair,2,650,0.1,1170,979,191,Online,CARD,Neha,No
+1979,19-06-2025,C192,Arjun Nair,South,Delhi,Keyboard,2,1200,0.5,1200,1311,111,Off Line,CASH,Unkown,No
+1980,08-06-2025,C172,Unkown ,East,Unkown State,USB Hub,0,650,0.05,0,0,111,Off Line,Unkown,Unkown,Unkown Status
+1981,04-01-2025,Unkown ID,Arjun Nair,Unkown,Tamil Nadu,Mouse,2,12500,0.15,21250,25141,3891,Online,CARD,Neha,Yes
+1982,11-02-2025,C235,Priya  Mehta,Unkown,Unkown State,Notebook Pack,0,12500,0.1,5000,0,3891,Unkown,CARD,Unkown,Unkown Status
+1983,25-10-2025,Unkown ID,Priya Mehta,Unkown,Delhi,Desk,0,5400,0.1,0,0,3891,Off Line,CARD,Neha,Damaged
+1984,27-11-2025,C249,Arjun Nair,West,Maharashtra,Laptop,0,650,0,0,0,3891,Offline,CASH,Ravi,Unkown Status
+1985,27-12-2025,C123,Arjun Nair,West,Odisha,Keyboard,0,12500,0.15,999999,0,3891,Online,CASH,Neha,Unkown Status
+1986,04-06-2025,Unkown ID,Priya  Mehta,West,West Bengal,Notebook Pack,0,1200,0,0,0,3891,Online,CARD,Neha,Yes
+1987,08-07-2025,C139,Priya Mehta,West,Odisha,Notebook Pack,0,5400,0.05,0,0,3891,Off Line,CARD,Amit ,Yes
+1988,28-10-2025,Unkown ID,Priya  Mehta,North,Unkown State,Desk,8,5400,0.1,38880,28072,10808,Online,CASH,Neha,No
+1989,11-11-2025,C129,Rahul Shah,North,Karnataka,Router,0,650,0,0,0,10808,Online,CASH,Amit,Unkown Status
+1990,12-12-2025,Unkown ID,Arjun Nair,South,Delhi,Office Chair,0,5400,0.15,0,0,10808,Unkown,CASH,Unkown,Yes
+1991,18-02-2025,C257,Rahul Shah,West,Maharashtra,Mouse,14,650,0.15,7735,7198,537,Offline,CASH,Ravi,Damaged
+1992,18-01-2025,C136,Priya Mehta,West,Maharastra,Desk,14,650,0,9100,10186,1086,Off Line,CARD,Ravi,Damaged
+1993,24-07-2025,C117,Rahul Shah,West,West Bengal,Monitor,2,1200,0,2400,1350,1050,Online,CARD,Neha,No
+1994,29-10-2025,C259,Rahul Shah,Unkown,Unkown State,Laptop,5,1200,0,6000,5478,522,Online,CARD,Ravi,Yes
+1995,15-07-2025,C169,Unkown ,North,Tamil Nadu,Desk,8,250,0.15,1700,1263,437,Online,CARD,Neha,Damaged
+1996,02-08-2025,C243,Rahul Shah,North,Delhi,Mouse,2,650,0,1300,795,505,Online,Unkown,Neha,Unkown Status
+1997,24-06-2025,C177,Unkown ,West,West Bengal,Keyboard,2,650,0,999999,0,505,Unkown,CARD,Unkown,Unkown Status
+1998,14-04-2025,C157,Arjun Nair,Unkown,Tamil Nadu,Tablet,0,650,0.5,0,0,505,Off Line,CARD,Neha,Yes
+1999,18-11-2025,C241,Rahul Shah,West,Karnataka,Office Chair,2,650,0.5,650,1297,647,Off Line,CASH,Amit ,No
+2000,18-08-2025,C251,Arjun Nair,West,Karnataka,Keyboard,2,1200,0.1,2160,2825,665,Offline,Unkown,Amit,No
